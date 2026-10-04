@@ -1,0 +1,1793 @@
+{
+ "@context": {
+  "prov": "http://www.w3.org/ns/prov#",
+  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+  "tsa": "https://example.org/tsa#"
+ },
+ "@graph": [
+  {
+   "@id": "urn:tsa:act:B001909-F0:fibre_mass",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "B001909-F0:fibre_mass",
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00050111"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-FIB-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00029898"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-FIB-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00030920"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-FIB-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:B001909-F1:fibre_mass",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "B001909-F1:fibre_mass",
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00050112"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-FIB-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00029899"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-FIB-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00030921"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-FIB-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:B001909-FAB:electricity",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "B001909-FAB:electricity",
+   "tsa:tier": "estimated",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00003909"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-CAL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:B001909-GAR:electricity",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "B001909-GAR:electricity",
+   "tsa:tier": "calculated",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00007909"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-CAL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:B001909-SPI:electricity",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "B001909-SPI:electricity",
+   "tsa:tier": "imputed",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00032873"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-IMP-01"
+     }
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:model:spinning:electricity"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:B001909-WET:electricity",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "B001909-WET:electricity",
+   "tsa:tier": "calculated",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00005909"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-CAL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:B001909-WET:heat",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "B001909-WET:heat",
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00010752"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-SEL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:O00053399:tkm",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "O00053399:tkm",
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00053399"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-SEL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:O00053400:tkm",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "O00053400:tkm",
+   "tsa:tier": "default",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:spec:B001909"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRF-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:default:transport-distances"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:O00055449:tkm",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "O00055449:tkm",
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00055449"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-SEL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:O00057449:tkm",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "O00057449:tkm",
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00057449"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-SEL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:O00059449:tkm",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "O00059449:tkm",
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00059449"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-SEL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:O00061449:tkm",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "O00061449:tkm",
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00061449"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-SEL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:act:O00063449:tkm",
+   "@type": [
+    "prov:Entity",
+    "tsa:activity_value"
+   ],
+   "rdfs:label": "O00063449:tkm",
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:obs:O00063449"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-SEL-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:agent:FAC0025",
+   "@type": [
+    "prov:Agent",
+    "tsa:agent"
+   ],
+   "rdfs:label": "FAC0025"
+  },
+  {
+   "@id": "urn:tsa:agent:FAC0032",
+   "@type": [
+    "prov:Agent",
+    "tsa:agent"
+   ],
+   "rdfs:label": "FAC0032"
+  },
+  {
+   "@id": "urn:tsa:agent:FAC0080",
+   "@type": [
+    "prov:Agent",
+    "tsa:agent"
+   ],
+   "rdfs:label": "FAC0080"
+  },
+  {
+   "@id": "urn:tsa:agent:FAC0094",
+   "@type": [
+    "prov:Agent",
+    "tsa:agent"
+   ],
+   "rdfs:label": "FAC0094"
+  },
+  {
+   "@id": "urn:tsa:agent:FAC0136",
+   "@type": [
+    "prov:Agent",
+    "tsa:agent"
+   ],
+   "rdfs:label": "FAC0136"
+  },
+  {
+   "@id": "urn:tsa:agent:FAC0239",
+   "@type": [
+    "prov:Agent",
+    "tsa:agent"
+   ],
+   "rdfs:label": "FAC0239"
+  },
+  {
+   "@id": "urn:tsa:agent:FAC0244",
+   "@type": [
+    "prov:Agent",
+    "tsa:agent"
+   ],
+   "rdfs:label": "FAC0244"
+  },
+  {
+   "@id": "urn:tsa:agg:B001909:gwp:fabric",
+   "@type": [
+    "prov:Entity",
+    "tsa:aggregate"
+   ],
+   "rdfs:label": "gwp:fabric",
+   "tsa:value": 289.4726242590913,
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:3908"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:agg:B001909:gwp:fibre",
+   "@type": [
+    "prov:Entity",
+    "tsa:aggregate"
+   ],
+   "rdfs:label": "gwp:fibre",
+   "tsa:value": 567.408563230056,
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:47146"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:47147"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:agg:B001909:gwp:garment",
+   "@type": [
+    "prov:Entity",
+    "tsa:aggregate"
+   ],
+   "rdfs:label": "gwp:garment",
+   "tsa:value": 147.26717341243605,
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:7908"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:agg:B001909:gwp:spinning",
+   "@type": [
+    "prov:Entity",
+    "tsa:aggregate"
+   ],
+   "rdfs:label": "gwp:spinning",
+   "tsa:value": 453.9316475134697,
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:1908"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:agg:B001909:gwp:transport",
+   "@type": [
+    "prov:Entity",
+    "tsa:aggregate"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 164.1303440126781,
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:57010"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:57011"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:59060"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:61060"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:63060"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:65060"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:67060"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:70298"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:70299"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:72348"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:74348"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:76348"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:78348"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:80348"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:agg:B001909:gwp:wet",
+   "@type": [
+    "prov:Entity",
+    "tsa:aggregate"
+   ],
+   "rdfs:label": "gwp:wet",
+   "tsa:value": 202.85534270076892,
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:5908"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:con:33908"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:1908",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:electricity",
+   "tsa:value": 453.9316475134697,
+   "tsa:tier": "imputed",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:B001909-SPI:electricity"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-ELE-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:grid:CN"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:33908",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:heat",
+   "tsa:value": 160.36100490446788,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:B001909-WET:heat"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-HEA-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:fuelmix:IT"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:3908",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:electricity",
+   "tsa:value": 289.4726242590913,
+   "tsa:tier": "estimated",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:B001909-FAB:electricity"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-ELE-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:grid:TR"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:47146",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:fibre_gwp",
+   "tsa:value": 37.1971575551026,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:B001909-F0:fibre_mass"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-FIB-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:47147",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:fibre_gwp",
+   "tsa:value": 530.2114056749533,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:B001909-F1:fibre_mass"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-FIB-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:57010",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 0.0,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00053399:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:57011",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 0.0,
+   "tsa:tier": "default",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00053400:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-02"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:59060",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 19.888304398520372,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00055449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:sea"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:5908",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:electricity",
+   "tsa:value": 42.49433779630105,
+   "tsa:tier": "calculated",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:B001909-WET:electricity"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-ELE-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:grid:IT"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:61060",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 10.472436772627931,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00057449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:sea"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:63060",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 41.622417498983225,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00059449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:sea"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:65060",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 40.23495539114113,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00061449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:sea"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:67060",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 0.0,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00063449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:70298",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 0.16024866799141713,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00053399:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:70299",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 3.8436399583404763,
+   "tsa:tier": "default",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00053400:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-02"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:72348",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 8.671863694489785,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00055449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:74348",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 21.053254609165766,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00057449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:76348",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 7.587394628707924,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00059449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:78348",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 7.263632740512648,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00061449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:7908",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:electricity",
+   "tsa:value": 147.26717341243605,
+   "tsa:tier": "calculated",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:B001909-GAR:electricity"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-ELE-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:grid:CN"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:con:80348",
+   "@type": [
+    "prov:Entity",
+    "tsa:contribution"
+   ],
+   "rdfs:label": "gwp:transport",
+   "tsa:value": 3.3321956521974356,
+   "tsa:tier": "measured",
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:act:O00063449:tkm"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-TRN-01"
+     }
+    }
+   ],
+   "prov:used": [
+    {
+     "@id": "urn:tsa:fac:transport:road"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:event:E00003147",
+   "@type": [
+    "prov:Activity",
+    "tsa:event"
+   ],
+   "rdfs:label": "raw_material_sourcing",
+   "tsa:time": "2025-01-07 00:00:00",
+   "tsa:facility": "FAC0025"
+  },
+  {
+   "@id": "urn:tsa:event:E00003148",
+   "@type": [
+    "prov:Activity",
+    "tsa:event"
+   ],
+   "rdfs:label": "raw_material_sourcing",
+   "tsa:time": "2025-01-07 00:00:00",
+   "tsa:facility": "FAC0032"
+  },
+  {
+   "@id": "urn:tsa:event:E00005197",
+   "@type": [
+    "prov:Activity",
+    "tsa:event"
+   ],
+   "rdfs:label": "spinning",
+   "tsa:time": "2025-01-19 00:00:00",
+   "tsa:facility": "FAC0080"
+  },
+  {
+   "@id": "urn:tsa:event:E00007197",
+   "@type": [
+    "prov:Activity",
+    "tsa:event"
+   ],
+   "rdfs:label": "weaving",
+   "tsa:time": "2025-01-25 00:00:00",
+   "tsa:facility": "FAC0094"
+  },
+  {
+   "@id": "urn:tsa:event:E00009197",
+   "@type": [
+    "prov:Activity",
+    "tsa:event"
+   ],
+   "rdfs:label": "dyeing_finishing",
+   "tsa:time": "2025-01-30 00:00:00",
+   "tsa:facility": "FAC0136"
+  },
+  {
+   "@id": "urn:tsa:event:E00011197",
+   "@type": [
+    "prov:Activity",
+    "tsa:event"
+   ],
+   "rdfs:label": "cutting_assembly",
+   "tsa:time": "2025-02-14 00:00:00",
+   "tsa:facility": "FAC0239"
+  },
+  {
+   "@id": "urn:tsa:fac:default:transport-distances",
+   "@type": [
+    "prov:Entity",
+    "tsa:factor"
+   ],
+   "rdfs:label": "default:transport-distances",
+   "tsa:dataset": "regional distance table",
+   "tsa:version": "assumption-1"
+  },
+  {
+   "@id": "urn:tsa:fac:fuelmix:IT",
+   "@type": [
+    "prov:Entity",
+    "tsa:factor"
+   ],
+   "rdfs:label": "fuelmix:IT",
+   "tsa:value": 0.0561,
+   "tsa:unit": "kgCO2e/MJ",
+   "tsa:dataset": "industrial-heat-mix",
+   "tsa:version": "assumption-1"
+  },
+  {
+   "@id": "urn:tsa:fac:grid:CN",
+   "@type": [
+    "prov:Entity",
+    "tsa:factor"
+   ],
+   "rdfs:label": "grid:CN",
+   "tsa:value": 0.528,
+   "tsa:unit": "kgCO2e/kWh",
+   "tsa:dataset": "grid-intensity",
+   "tsa:version": "2024"
+  },
+  {
+   "@id": "urn:tsa:fac:grid:IT",
+   "@type": [
+    "prov:Entity",
+    "tsa:factor"
+   ],
+   "rdfs:label": "grid:IT",
+   "tsa:value": 0.284,
+   "tsa:unit": "kgCO2e/kWh",
+   "tsa:dataset": "grid-intensity",
+   "tsa:version": "2024"
+  },
+  {
+   "@id": "urn:tsa:fac:grid:TR",
+   "@type": [
+    "prov:Entity",
+    "tsa:factor"
+   ],
+   "rdfs:label": "grid:TR",
+   "tsa:value": 0.476,
+   "tsa:unit": "kgCO2e/kWh",
+   "tsa:dataset": "grid-intensity",
+   "tsa:version": "2024"
+  },
+  {
+   "@id": "urn:tsa:fac:transport:road",
+   "@type": [
+    "prov:Entity",
+    "tsa:factor"
+   ],
+   "rdfs:label": "transport:road",
+   "tsa:value": 0.09502,
+   "tsa:unit": "kgCO2e/tkm",
+   "tsa:dataset": "transport-ef",
+   "tsa:version": "2024"
+  },
+  {
+   "@id": "urn:tsa:fac:transport:sea",
+   "@type": [
+    "prov:Entity",
+    "tsa:factor"
+   ],
+   "rdfs:label": "transport:sea",
+   "tsa:value": 0.01977,
+   "tsa:unit": "kgCO2e/tkm",
+   "tsa:dataset": "transport-ef",
+   "tsa:version": "2024"
+  },
+  {
+   "@id": "urn:tsa:ind:B001909:gwp_per_unit",
+   "@type": [
+    "prov:Entity",
+    "tsa:indicator"
+   ],
+   "rdfs:label": "gwp_per_unit",
+   "tsa:value": 6.083552317095,
+   "tsa:lo": 5.388742848424707,
+   "tsa:hi": 7.36851128792123,
+   "tsa:method": "M3 proposed",
+   "tsa:engine": "tsa-0.1.0",
+   "tsa:dq": 2.0576321074506185,
+   "prov:qualifiedDerivation": [
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:agg:B001909:gwp:fabric"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:agg:B001909:gwp:fibre"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:agg:B001909:gwp:garment"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:agg:B001909:gwp:spinning"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:agg:B001909:gwp:transport"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    },
+    {
+     "@type": "prov:Derivation",
+     "prov:entity": {
+      "@id": "urn:tsa:agg:B001909:gwp:wet"
+     },
+     "prov:hadPlan": {
+      "@id": "urn:tsa:rule:R-AGG-01"
+     }
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:model:spinning:electricity",
+   "@type": [
+    "prov:SoftwareAgent",
+    "tsa:model"
+   ],
+   "rdfs:label": "intensity-imputer:spinning:electricity",
+   "tsa:algorithm": "HistGradientBoosting+facility-effect+conformal",
+   "tsa:version": "1.0",
+   "tsa:n_train": 693
+  },
+  {
+   "@id": "urn:tsa:obs:O00003909",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "electricity",
+   "tsa:value": 567156.6039995829,
+   "tsa:unit": "Wh",
+   "tsa:data_type": "estimated",
+   "tsa:source": "MES",
+   "tsa:timestamp": "2025-01-25 00:00:00",
+   "tsa:verification": "self_declared",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0094"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00007197"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00005909",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "electricity",
+   "tsa:value": 149.95708844984807,
+   "tsa:unit": "kWh",
+   "tsa:data_type": "calculated",
+   "tsa:source": "MES",
+   "tsa:timestamp": "2025-01-30 00:00:00",
+   "tsa:verification": "third_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0136"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00009197"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00007909",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "electricity",
+   "tsa:value": 279.5286341774826,
+   "tsa:unit": "kWh",
+   "tsa:data_type": "calculated",
+   "tsa:source": "MES",
+   "tsa:timestamp": "2025-02-14 00:00:00",
+   "tsa:verification": "self_declared",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0239"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00011197"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00010752",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "heat",
+   "tsa:value": 2858.4849359085183,
+   "tsa:unit": "MJ",
+   "tsa:data_type": "measured",
+   "tsa:source": "audit",
+   "tsa:timestamp": "2025-01-30 00:00:00",
+   "tsa:verification": "third_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0136"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00009197"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00029898",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "fibre_gwp_intensity",
+   "tsa:value": 4.804723227081891,
+   "tsa:unit": "kgCO2e/kg",
+   "tsa:data_type": "measured",
+   "tsa:source": "supplier_portal",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0025"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00003147"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00029899",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "fibre_gwp_intensity",
+   "tsa:value": 3.604575164727771,
+   "tsa:unit": "kgCO2e/kg",
+   "tsa:data_type": "measured",
+   "tsa:source": "supplier_portal",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0032"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00003148"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00030920",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "fibre_water_intensity",
+   "tsa:value": 20.4088949996706,
+   "tsa:unit": "L/kg",
+   "tsa:data_type": "measured",
+   "tsa:source": "supplier_portal",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0025"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00003147"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00030921",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "fibre_water_intensity",
+   "tsa:value": 29.315131376577778,
+   "tsa:unit": "L/kg",
+   "tsa:data_type": "measured",
+   "tsa:source": "supplier_portal",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0032"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00003148"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00032873",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "mass_in",
+   "tsa:value": 154.4125248409893,
+   "tsa:unit": "kg",
+   "tsa:data_type": "measured",
+   "tsa:source": "ERP",
+   "tsa:timestamp": "2025-01-19 00:00:00",
+   "tsa:verification": "none",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0080"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00005197"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00050111",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "mass_out",
+   "tsa:value": 7.741789859078726,
+   "tsa:unit": "kg",
+   "tsa:data_type": "measured",
+   "tsa:source": "supplier_portal",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "self_declared",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0025"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00003147"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00050112",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "mass_out",
+   "tsa:value": 147.0940073224958,
+   "tsa:unit": "kg",
+   "tsa:data_type": "measured",
+   "tsa:source": "supplier_portal",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "self_declared",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0032"
+    }
+   ],
+   "prov:wasGeneratedBy": [
+    {
+     "@id": "urn:tsa:event:E00003148"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00053399",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "transport_work",
+   "tsa:value": 1.6864730371649876,
+   "tsa:unit": "tkm",
+   "tsa:data_type": "measured",
+   "tsa:source": "logistics",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0025"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00055449",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "transport_work",
+   "tsa:value": 1097.2475986938982,
+   "tsa:unit": "tkm",
+   "tsa:data_type": "measured",
+   "tsa:source": "logistics",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0080"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00057449",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "transport_work",
+   "tsa:value": 751.280105212423,
+   "tsa:unit": "tkm",
+   "tsa:data_type": "measured",
+   "tsa:source": "logistics",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0094"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00059449",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "transport_work",
+   "tsa:value": 2185.1826964431853,
+   "tsa:unit": "tkm",
+   "tsa:data_type": "measured",
+   "tsa:source": "logistics",
+   "tsa:timestamp": "2025-01-07 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0136"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00061449",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "transport_work",
+   "tsa:value": 2111.5952164617183,
+   "tsa:unit": "tkm",
+   "tsa:data_type": "measured",
+   "tsa:source": "logistics",
+   "tsa:timestamp": "2025-02-14 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0239"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:obs:O00063449",
+   "@type": [
+    "prov:Entity",
+    "tsa:observation"
+   ],
+   "rdfs:label": "transport_work",
+   "tsa:value": 35.06836089452153,
+   "tsa:unit": "tkm",
+   "tsa:data_type": "measured",
+   "tsa:source": "logistics",
+   "tsa:timestamp": "2025-03-26 00:00:00",
+   "tsa:verification": "second_party",
+   "prov:wasAttributedTo": [
+    {
+     "@id": "urn:tsa:agent:FAC0244"
+    }
+   ]
+  },
+  {
+   "@id": "urn:tsa:spec:B001909",
+   "@type": [
+    "prov:Entity",
+    "tsa:specification"
+   ],
+   "rdfs:label": "product specification B001909",
+   "tsa:source": "PLM",
+   "tsa:content": "units, unit mass, composition, cut waste"
+  }
+ ]
+}

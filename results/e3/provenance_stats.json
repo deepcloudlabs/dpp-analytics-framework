@@ -1,0 +1,56 @@
+{
+ "n_batches": 2000,
+ "nodes": 165872,
+ "edges": 273702,
+ "nodes_per_batch": 82.936,
+ "edges_per_batch": 136.851,
+ "build_s": 9.367869699999574,
+ "load_s": 4.2829352999979164,
+ "node_kinds": {
+  "contribution": 60440,
+  "activity_value": 28576,
+  "observation": 28045,
+  "aggregate": 28000,
+  "event": 11204,
+  "indicator": 8000,
+  "specification": 1319,
+  "agent": 241,
+  "factor": 41,
+  "model": 6
+ },
+ "edge_rel": {
+  "wasDerivedFrom": 179500,
+  "used": 45358,
+  "wasAttributedTo": 28045,
+  "wasGeneratedBy": 20664,
+  "rejected": 135
+ },
+ "lineage_coverage_value_weighted": 1.0,
+ "lineage_coverage_contributions": 1.0,
+ "value_share_by_tier": {
+  "calculated": 0.09097346500015165,
+  "default": 0.4168148359519354,
+  "estimated": 0.038686589287788765,
+  "imputed": 0.12174416785992412,
+  "measured": 0.3317809419002
+ },
+ "latency_ms": {
+  "explain": {
+   "p50": 4.121400001167785,
+   "p95": 6.566649992601013,
+   "n": 200
+  },
+  "rules_used": {
+   "p50": 0.5556499963859096,
+   "p95": 0.8695449978404212,
+   "n": 200
+  },
+  "impact_factor": {
+   "p50": 18.63469999807421,
+   "p95": 106.1762000026647,
+   "n": 41
+  }
+ },
+ "example_batch": "B001909",
+ "runtime_s": 120.21995460000471
+}

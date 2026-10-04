@@ -1,0 +1,2563 @@
+batch_id,outcome,detail,rule_id,rule_version
+B000003,violation,manufacturer_facility,R01,1.0
+B000016,violation,gtin,R01,1.0
+B000021,violation,country_of_manufacture,R01,1.0
+B000023,violation,gtin,R01,1.0
+B000029,violation,country_of_manufacture,R01,1.0
+B000034,violation,care_information,R01,1.0
+B000037,violation,operator_id,R01,1.0
+B000041,violation,manufacturer_facility,R01,1.0
+B000051,violation,care_information,R01,1.0
+B000058,violation,gtin,R01,1.0
+B000077,violation,gtin,R01,1.0
+B000096,violation,country_of_manufacture,R01,1.0
+B000098,violation,declared_composition,R01,1.0
+B000104,violation,gtin,R01,1.0
+B000118,violation,operator_id,R01,1.0
+B000131,violation,care_information,R01,1.0
+B000158,violation,country_of_manufacture,R01,1.0
+B000160,violation,care_information,R01,1.0
+B000165,violation,country_of_manufacture,R01,1.0
+B000167,violation,manufacturer_facility,R01,1.0
+B000193,violation,country_of_manufacture,R01,1.0
+B000204,violation,declared_composition,R01,1.0
+B000209,violation,care_information,R01,1.0
+B000214,violation,care_information,R01,1.0
+B000217,violation,operator_id,R01,1.0
+B000226,violation,operator_id,R01,1.0
+B000228,violation,"gtin,operator_id",R01,1.0
+B000232,violation,declared_composition,R01,1.0
+B000239,violation,country_of_manufacture,R01,1.0
+B000259,violation,manufacturer_facility,R01,1.0
+B000277,violation,gtin,R01,1.0
+B000288,violation,operator_id,R01,1.0
+B000291,violation,manufacturer_facility,R01,1.0
+B000317,violation,care_information,R01,1.0
+B000319,violation,country_of_manufacture,R01,1.0
+B000323,violation,operator_id,R01,1.0
+B000336,violation,gtin,R01,1.0
+B000349,violation,"manufacturer_facility,country_of_manufacture",R01,1.0
+B000351,violation,care_information,R01,1.0
+B000363,violation,operator_id,R01,1.0
+B000379,violation,operator_id,R01,1.0
+B000381,violation,care_information,R01,1.0
+B000384,violation,country_of_manufacture,R01,1.0
+B000385,violation,manufacturer_facility,R01,1.0
+B000392,violation,operator_id,R01,1.0
+B000393,violation,gtin,R01,1.0
+B000405,violation,manufacturer_facility,R01,1.0
+B000412,violation,care_information,R01,1.0
+B000417,violation,manufacturer_facility,R01,1.0
+B000421,violation,country_of_manufacture,R01,1.0
+B000427,violation,gtin,R01,1.0
+B000429,violation,manufacturer_facility,R01,1.0
+B000445,violation,manufacturer_facility,R01,1.0
+B000451,violation,care_information,R01,1.0
+B000453,violation,declared_composition,R01,1.0
+B000460,violation,gtin,R01,1.0
+B000461,violation,care_information,R01,1.0
+B000465,violation,care_information,R01,1.0
+B000469,violation,operator_id,R01,1.0
+B000490,violation,manufacturer_facility,R01,1.0
+B000501,violation,care_information,R01,1.0
+B000502,violation,country_of_manufacture,R01,1.0
+B000505,violation,declared_composition,R01,1.0
+B000525,violation,gtin,R01,1.0
+B000566,violation,gtin,R01,1.0
+B000571,violation,manufacturer_facility,R01,1.0
+B000574,violation,operator_id,R01,1.0
+B000577,violation,"operator_id,country_of_manufacture",R01,1.0
+B000584,violation,manufacturer_facility,R01,1.0
+B000590,violation,gtin,R01,1.0
+B000591,violation,operator_id,R01,1.0
+B000602,violation,operator_id,R01,1.0
+B000616,violation,manufacturer_facility,R01,1.0
+B000618,violation,country_of_manufacture,R01,1.0
+B000619,violation,gtin,R01,1.0
+B000620,violation,operator_id,R01,1.0
+B000622,violation,declared_composition,R01,1.0
+B000623,violation,care_information,R01,1.0
+B000642,violation,gtin,R01,1.0
+B000643,violation,declared_composition,R01,1.0
+B000654,violation,declared_composition,R01,1.0
+B000661,violation,country_of_manufacture,R01,1.0
+B000662,violation,country_of_manufacture,R01,1.0
+B000680,violation,manufacturer_facility,R01,1.0
+B000682,violation,manufacturer_facility,R01,1.0
+B000683,violation,manufacturer_facility,R01,1.0
+B000698,violation,country_of_manufacture,R01,1.0
+B000705,violation,manufacturer_facility,R01,1.0
+B000708,violation,"operator_id,care_information",R01,1.0
+B000715,violation,operator_id,R01,1.0
+B000716,violation,country_of_manufacture,R01,1.0
+B000718,violation,care_information,R01,1.0
+B000721,violation,gtin,R01,1.0
+B000738,violation,declared_composition,R01,1.0
+B000742,violation,operator_id,R01,1.0
+B000756,violation,operator_id,R01,1.0
+B000765,violation,care_information,R01,1.0
+B000786,violation,gtin,R01,1.0
+B000790,violation,care_information,R01,1.0
+B000800,violation,gtin,R01,1.0
+B000817,violation,manufacturer_facility,R01,1.0
+B000819,violation,care_information,R01,1.0
+B000857,violation,care_information,R01,1.0
+B000860,violation,operator_id,R01,1.0
+B000862,violation,manufacturer_facility,R01,1.0
+B000870,violation,"operator_id,country_of_manufacture",R01,1.0
+B000883,violation,gtin,R01,1.0
+B000889,violation,manufacturer_facility,R01,1.0
+B000894,violation,operator_id,R01,1.0
+B000899,violation,care_information,R01,1.0
+B000917,violation,manufacturer_facility,R01,1.0
+B000967,violation,gtin,R01,1.0
+B000977,violation,care_information,R01,1.0
+B000979,violation,declared_composition,R01,1.0
+B000988,violation,care_information,R01,1.0
+B001005,violation,manufacturer_facility,R01,1.0
+B001006,violation,declared_composition,R01,1.0
+B001024,violation,country_of_manufacture,R01,1.0
+B001028,violation,declared_composition,R01,1.0
+B001037,violation,care_information,R01,1.0
+B001067,violation,gtin,R01,1.0
+B001069,violation,care_information,R01,1.0
+B001081,violation,gtin,R01,1.0
+B001085,violation,care_information,R01,1.0
+B001090,violation,operator_id,R01,1.0
+B001093,violation,declared_composition,R01,1.0
+B001100,violation,country_of_manufacture,R01,1.0
+B001101,violation,gtin,R01,1.0
+B001110,violation,care_information,R01,1.0
+B001111,violation,gtin,R01,1.0
+B001118,violation,operator_id,R01,1.0
+B001119,violation,country_of_manufacture,R01,1.0
+B001124,violation,manufacturer_facility,R01,1.0
+B001127,violation,care_information,R01,1.0
+B001135,violation,country_of_manufacture,R01,1.0
+B001138,violation,gtin,R01,1.0
+B001144,violation,country_of_manufacture,R01,1.0
+B001148,violation,care_information,R01,1.0
+B001153,violation,country_of_manufacture,R01,1.0
+B001158,violation,country_of_manufacture,R01,1.0
+B001168,violation,country_of_manufacture,R01,1.0
+B001171,violation,manufacturer_facility,R01,1.0
+B001176,violation,declared_composition,R01,1.0
+B001182,violation,manufacturer_facility,R01,1.0
+B001198,violation,country_of_manufacture,R01,1.0
+B001220,violation,country_of_manufacture,R01,1.0
+B001234,violation,country_of_manufacture,R01,1.0
+B001235,violation,"operator_id,care_information",R01,1.0
+B001245,violation,operator_id,R01,1.0
+B001259,violation,country_of_manufacture,R01,1.0
+B001286,violation,care_information,R01,1.0
+B001288,violation,gtin,R01,1.0
+B001302,violation,country_of_manufacture,R01,1.0
+B001303,violation,care_information,R01,1.0
+B001308,violation,country_of_manufacture,R01,1.0
+B001309,violation,country_of_manufacture,R01,1.0
+B001320,violation,care_information,R01,1.0
+B001331,violation,operator_id,R01,1.0
+B001333,violation,operator_id,R01,1.0
+B001336,violation,country_of_manufacture,R01,1.0
+B001352,violation,manufacturer_facility,R01,1.0
+B001356,violation,operator_id,R01,1.0
+B001368,violation,gtin,R01,1.0
+B001385,violation,gtin,R01,1.0
+B001412,violation,operator_id,R01,1.0
+B001419,violation,declared_composition,R01,1.0
+B001430,violation,care_information,R01,1.0
+B001440,violation,operator_id,R01,1.0
+B001457,violation,manufacturer_facility,R01,1.0
+B001460,violation,operator_id,R01,1.0
+B001467,violation,manufacturer_facility,R01,1.0
+B001471,violation,operator_id,R01,1.0
+B001474,violation,country_of_manufacture,R01,1.0
+B001475,violation,manufacturer_facility,R01,1.0
+B001480,violation,manufacturer_facility,R01,1.0
+B001482,violation,declared_composition,R01,1.0
+B001483,violation,manufacturer_facility,R01,1.0
+B001494,violation,declared_composition,R01,1.0
+B001497,violation,country_of_manufacture,R01,1.0
+B001500,violation,gtin,R01,1.0
+B001503,violation,care_information,R01,1.0
+B001513,violation,country_of_manufacture,R01,1.0
+B001535,violation,care_information,R01,1.0
+B001540,violation,declared_composition,R01,1.0
+B001543,violation,manufacturer_facility,R01,1.0
+B001558,violation,care_information,R01,1.0
+B001560,violation,operator_id,R01,1.0
+B001562,violation,"operator_id,care_information",R01,1.0
+B001568,violation,operator_id,R01,1.0
+B001570,violation,"gtin,operator_id",R01,1.0
+B001572,violation,declared_composition,R01,1.0
+B001586,violation,gtin,R01,1.0
+B001594,violation,manufacturer_facility,R01,1.0
+B001597,violation,gtin,R01,1.0
+B001605,violation,operator_id,R01,1.0
+B001612,violation,gtin,R01,1.0
+B001618,violation,operator_id,R01,1.0
+B001621,violation,manufacturer_facility,R01,1.0
+B001622,violation,manufacturer_facility,R01,1.0
+B001626,violation,care_information,R01,1.0
+B001664,violation,country_of_manufacture,R01,1.0
+B001666,violation,care_information,R01,1.0
+B001668,violation,care_information,R01,1.0
+B001673,violation,country_of_manufacture,R01,1.0
+B001677,violation,care_information,R01,1.0
+B001683,violation,manufacturer_facility,R01,1.0
+B001718,violation,country_of_manufacture,R01,1.0
+B001731,violation,care_information,R01,1.0
+B001734,violation,"operator_id,country_of_manufacture",R01,1.0
+B001752,violation,gtin,R01,1.0
+B001758,violation,country_of_manufacture,R01,1.0
+B001762,violation,gtin,R01,1.0
+B001771,violation,country_of_manufacture,R01,1.0
+B001781,violation,operator_id,R01,1.0
+B001782,violation,declared_composition,R01,1.0
+B001796,violation,manufacturer_facility,R01,1.0
+B001811,violation,declared_composition,R01,1.0
+B001816,violation,manufacturer_facility,R01,1.0
+B001829,violation,gtin,R01,1.0
+B001836,violation,care_information,R01,1.0
+B001837,violation,operator_id,R01,1.0
+B001842,violation,operator_id,R01,1.0
+B001845,violation,gtin,R01,1.0
+B001861,violation,gtin,R01,1.0
+B001868,violation,declared_composition,R01,1.0
+B001870,violation,country_of_manufacture,R01,1.0
+B001871,violation,care_information,R01,1.0
+B001891,violation,care_information,R01,1.0
+B001913,violation,declared_composition,R01,1.0
+B001916,violation,gtin,R01,1.0
+B001936,violation,declared_composition,R01,1.0
+B001946,violation,operator_id,R01,1.0
+B001962,violation,care_information,R01,1.0
+B001974,violation,operator_id,R01,1.0
+B001980,violation,care_information,R01,1.0
+B001990,violation,gtin,R01,1.0
+B000030,violation,composition,R02,1.0
+B000043,violation,composition,R02,1.0
+B000096,violation,composition,R02,1.0
+B000144,violation,composition,R02,1.0
+B000196,violation,composition,R02,1.0
+B000203,violation,composition,R02,1.0
+B000214,violation,composition,R02,1.0
+B000250,violation,composition,R02,1.0
+B000264,violation,composition,R02,1.0
+B000293,violation,composition,R02,1.0
+B000303,violation,composition,R02,1.0
+B000305,violation,composition,R02,1.0
+B000320,violation,composition,R02,1.0
+B000331,violation,composition,R02,1.0
+B000379,violation,composition,R02,1.0
+B000391,violation,composition,R02,1.0
+B000392,violation,composition,R02,1.0
+B000393,violation,composition,R02,1.0
+B000415,violation,composition,R02,1.0
+B000488,violation,composition,R02,1.0
+B000492,violation,composition,R02,1.0
+B000532,violation,composition,R02,1.0
+B000544,violation,composition,R02,1.0
+B000553,violation,composition,R02,1.0
+B000576,violation,composition,R02,1.0
+B000630,violation,composition,R02,1.0
+B000652,violation,composition,R02,1.0
+B000655,violation,composition,R02,1.0
+B000719,violation,composition,R02,1.0
+B000731,violation,composition,R02,1.0
+B000756,violation,composition,R02,1.0
+B000822,violation,composition,R02,1.0
+B000843,violation,composition,R02,1.0
+B000887,violation,composition,R02,1.0
+B000899,violation,composition,R02,1.0
+B000940,violation,composition,R02,1.0
+B000948,violation,composition,R02,1.0
+B000958,violation,composition,R02,1.0
+B000973,violation,composition,R02,1.0
+B000993,violation,composition,R02,1.0
+B001014,violation,composition,R02,1.0
+B001025,violation,composition,R02,1.0
+B001026,violation,composition,R02,1.0
+B001089,violation,composition,R02,1.0
+B001120,violation,composition,R02,1.0
+B001124,violation,composition,R02,1.0
+B001173,violation,composition,R02,1.0
+B001196,violation,composition,R02,1.0
+B001214,violation,composition,R02,1.0
+B001236,violation,composition,R02,1.0
+B001239,violation,composition,R02,1.0
+B001251,violation,composition,R02,1.0
+B001297,violation,composition,R02,1.0
+B001343,violation,composition,R02,1.0
+B001440,violation,composition,R02,1.0
+B001462,violation,composition,R02,1.0
+B001523,violation,composition,R02,1.0
+B001556,violation,composition,R02,1.0
+B001559,violation,composition,R02,1.0
+B001568,violation,composition,R02,1.0
+B001654,violation,composition,R02,1.0
+B001685,violation,composition,R02,1.0
+B001713,violation,composition,R02,1.0
+B001714,violation,composition,R02,1.0
+B001730,violation,composition,R02,1.0
+B001752,violation,composition,R02,1.0
+B001817,violation,composition,R02,1.0
+B001833,violation,composition,R02,1.0
+B001837,violation,composition,R02,1.0
+B001883,violation,composition,R02,1.0
+B001886,violation,composition,R02,1.0
+B001888,violation,composition,R02,1.0
+B001903,violation,composition,R02,1.0
+B001919,violation,composition,R02,1.0
+B000008,unverifiable,fibre lot masses missing,R02,1.0
+B000024,unverifiable,fibre lot masses missing,R02,1.0
+B000028,unverifiable,fibre lot masses missing,R02,1.0
+B000034,unverifiable,fibre lot masses missing,R02,1.0
+B000045,unverifiable,fibre lot masses missing,R02,1.0
+B000075,unverifiable,fibre lot masses missing,R02,1.0
+B000084,unverifiable,fibre lot masses missing,R02,1.0
+B000115,unverifiable,fibre lot masses missing,R02,1.0
+B000117,unverifiable,fibre lot masses missing,R02,1.0
+B000191,unverifiable,fibre lot masses missing,R02,1.0
+B000200,unverifiable,fibre lot masses missing,R02,1.0
+B000208,unverifiable,fibre lot masses missing,R02,1.0
+B000227,unverifiable,fibre lot masses missing,R02,1.0
+B000230,unverifiable,fibre lot masses missing,R02,1.0
+B000272,unverifiable,fibre lot masses missing,R02,1.0
+B000278,unverifiable,fibre lot masses missing,R02,1.0
+B000286,unverifiable,fibre lot masses missing,R02,1.0
+B000359,unverifiable,fibre lot masses missing,R02,1.0
+B000382,unverifiable,fibre lot masses missing,R02,1.0
+B000395,unverifiable,fibre lot masses missing,R02,1.0
+B000399,unverifiable,fibre lot masses missing,R02,1.0
+B000404,unverifiable,fibre lot masses missing,R02,1.0
+B000440,unverifiable,fibre lot masses missing,R02,1.0
+B000450,unverifiable,fibre lot masses missing,R02,1.0
+B000462,unverifiable,fibre lot masses missing,R02,1.0
+B000471,unverifiable,fibre lot masses missing,R02,1.0
+B000516,unverifiable,fibre lot masses missing,R02,1.0
+B000534,unverifiable,fibre lot masses missing,R02,1.0
+B000540,unverifiable,fibre lot masses missing,R02,1.0
+B000573,unverifiable,fibre lot masses missing,R02,1.0
+B000586,unverifiable,fibre lot masses missing,R02,1.0
+B000618,unverifiable,fibre lot masses missing,R02,1.0
+B000634,unverifiable,fibre lot masses missing,R02,1.0
+B000638,unverifiable,fibre lot masses missing,R02,1.0
+B000660,unverifiable,fibre lot masses missing,R02,1.0
+B000664,unverifiable,fibre lot masses missing,R02,1.0
+B000667,unverifiable,fibre lot masses missing,R02,1.0
+B000680,unverifiable,fibre lot masses missing,R02,1.0
+B000752,unverifiable,fibre lot masses missing,R02,1.0
+B000775,unverifiable,fibre lot masses missing,R02,1.0
+B000804,unverifiable,fibre lot masses missing,R02,1.0
+B000807,unverifiable,fibre lot masses missing,R02,1.0
+B000808,unverifiable,fibre lot masses missing,R02,1.0
+B000816,unverifiable,fibre lot masses missing,R02,1.0
+B000831,unverifiable,fibre lot masses missing,R02,1.0
+B000846,unverifiable,fibre lot masses missing,R02,1.0
+B000891,unverifiable,fibre lot masses missing,R02,1.0
+B000931,unverifiable,fibre lot masses missing,R02,1.0
+B000947,unverifiable,fibre lot masses missing,R02,1.0
+B000961,unverifiable,fibre lot masses missing,R02,1.0
+B001008,unverifiable,fibre lot masses missing,R02,1.0
+B001032,unverifiable,fibre lot masses missing,R02,1.0
+B001039,unverifiable,fibre lot masses missing,R02,1.0
+B001048,unverifiable,fibre lot masses missing,R02,1.0
+B001079,unverifiable,fibre lot masses missing,R02,1.0
+B001109,unverifiable,fibre lot masses missing,R02,1.0
+B001140,unverifiable,fibre lot masses missing,R02,1.0
+B001152,unverifiable,fibre lot masses missing,R02,1.0
+B001174,unverifiable,fibre lot masses missing,R02,1.0
+B001179,unverifiable,fibre lot masses missing,R02,1.0
+B001184,unverifiable,fibre lot masses missing,R02,1.0
+B001198,unverifiable,fibre lot masses missing,R02,1.0
+B001235,unverifiable,fibre lot masses missing,R02,1.0
+B001259,unverifiable,fibre lot masses missing,R02,1.0
+B001280,unverifiable,fibre lot masses missing,R02,1.0
+B001362,unverifiable,fibre lot masses missing,R02,1.0
+B001390,unverifiable,fibre lot masses missing,R02,1.0
+B001427,unverifiable,fibre lot masses missing,R02,1.0
+B001438,unverifiable,fibre lot masses missing,R02,1.0
+B001503,unverifiable,fibre lot masses missing,R02,1.0
+B001520,unverifiable,fibre lot masses missing,R02,1.0
+B001545,unverifiable,fibre lot masses missing,R02,1.0
+B001595,unverifiable,fibre lot masses missing,R02,1.0
+B001625,unverifiable,fibre lot masses missing,R02,1.0
+B001640,unverifiable,fibre lot masses missing,R02,1.0
+B001670,unverifiable,fibre lot masses missing,R02,1.0
+B001687,unverifiable,fibre lot masses missing,R02,1.0
+B001693,unverifiable,fibre lot masses missing,R02,1.0
+B001819,unverifiable,fibre lot masses missing,R02,1.0
+B001849,unverifiable,fibre lot masses missing,R02,1.0
+B001862,unverifiable,fibre lot masses missing,R02,1.0
+B001892,unverifiable,fibre lot masses missing,R02,1.0
+B001932,unverifiable,fibre lot masses missing,R02,1.0
+B001950,unverifiable,fibre lot masses missing,R02,1.0
+B001963,unverifiable,fibre lot masses missing,R02,1.0
+B001976,unverifiable,fibre lot masses missing,R02,1.0
+B000098,unverifiable,no declared composition,R02,1.0
+B000204,unverifiable,no declared composition,R02,1.0
+B000232,unverifiable,no declared composition,R02,1.0
+B000453,unverifiable,no declared composition,R02,1.0
+B000505,unverifiable,no declared composition,R02,1.0
+B000622,unverifiable,no declared composition,R02,1.0
+B000643,unverifiable,no declared composition,R02,1.0
+B000654,unverifiable,no declared composition,R02,1.0
+B000738,unverifiable,no declared composition,R02,1.0
+B000979,unverifiable,no declared composition,R02,1.0
+B001006,unverifiable,no declared composition,R02,1.0
+B001028,unverifiable,no declared composition,R02,1.0
+B001093,unverifiable,no declared composition,R02,1.0
+B001176,unverifiable,no declared composition,R02,1.0
+B001419,unverifiable,no declared composition,R02,1.0
+B001482,unverifiable,no declared composition,R02,1.0
+B001494,unverifiable,no declared composition,R02,1.0
+B001540,unverifiable,no declared composition,R02,1.0
+B001572,unverifiable,no declared composition,R02,1.0
+B001782,unverifiable,no declared composition,R02,1.0
+B001811,unverifiable,no declared composition,R02,1.0
+B001868,unverifiable,no declared composition,R02,1.0
+B001913,unverifiable,no declared composition,R02,1.0
+B001936,unverifiable,no declared composition,R02,1.0
+B000013,violation,overclaim,R03,1.0
+B000040,violation,overclaim,R03,1.0
+B000083,violation,overclaim,R03,1.0
+B000085,violation,overclaim,R03,1.0
+B000101,violation,overclaim,R03,1.0
+B000121,violation,overclaim,R03,1.0
+B000144,violation,overclaim,R03,1.0
+B000197,violation,overclaim,R03,1.0
+B000199,violation,overclaim,R03,1.0
+B000212,violation,overclaim,R03,1.0
+B000214,violation,overclaim,R03,1.0
+B000217,violation,overclaim,R03,1.0
+B000241,violation,overclaim,R03,1.0
+B000281,violation,overclaim,R03,1.0
+B000345,violation,overclaim,R03,1.0
+B000373,violation,overclaim,R03,1.0
+B000389,violation,overclaim,R03,1.0
+B000392,violation,overclaim,R03,1.0
+B000411,violation,overclaim,R03,1.0
+B000444,violation,overclaim,R03,1.0
+B000460,violation,overclaim,R03,1.0
+B000488,violation,overclaim,R03,1.0
+B000567,violation,overclaim,R03,1.0
+B000580,violation,overclaim,R03,1.0
+B000671,violation,overclaim,R03,1.0
+B000707,violation,overclaim,R03,1.0
+B000723,violation,overclaim,R03,1.0
+B000735,violation,overclaim,R03,1.0
+B000737,violation,overclaim,R03,1.0
+B000809,violation,overclaim,R03,1.0
+B000888,violation,overclaim,R03,1.0
+B000953,violation,overclaim,R03,1.0
+B001108,violation,overclaim,R03,1.0
+B001114,violation,overclaim,R03,1.0
+B001160,violation,overclaim,R03,1.0
+B001191,violation,overclaim,R03,1.0
+B001209,violation,overclaim,R03,1.0
+B001239,violation,overclaim,R03,1.0
+B001248,violation,overclaim,R03,1.0
+B001253,violation,overclaim,R03,1.0
+B001256,violation,overclaim,R03,1.0
+B001275,violation,overclaim,R03,1.0
+B001310,violation,overclaim,R03,1.0
+B001319,violation,overclaim,R03,1.0
+B001342,violation,overclaim,R03,1.0
+B001442,violation,overclaim,R03,1.0
+B001445,violation,overclaim,R03,1.0
+B001549,violation,overclaim,R03,1.0
+B001551,violation,overclaim,R03,1.0
+B001615,violation,overclaim,R03,1.0
+B001685,violation,overclaim,R03,1.0
+B001740,violation,overclaim,R03,1.0
+B001807,violation,overclaim,R03,1.0
+B001820,violation,overclaim,R03,1.0
+B001870,violation,overclaim,R03,1.0
+B001900,violation,overclaim,R03,1.0
+B001908,violation,overclaim,R03,1.0
+B001923,violation,overclaim,R03,1.0
+B001930,violation,overclaim,R03,1.0
+B000008,unverifiable,incomplete evidence,R03,1.0
+B000024,unverifiable,incomplete evidence,R03,1.0
+B000028,unverifiable,incomplete evidence,R03,1.0
+B000034,unverifiable,incomplete evidence,R03,1.0
+B000045,unverifiable,incomplete evidence,R03,1.0
+B000115,unverifiable,incomplete evidence,R03,1.0
+B000140,unverifiable,incomplete evidence,R03,1.0
+B000204,unverifiable,incomplete evidence,R03,1.0
+B000272,unverifiable,incomplete evidence,R03,1.0
+B000286,unverifiable,incomplete evidence,R03,1.0
+B000399,unverifiable,incomplete evidence,R03,1.0
+B000462,unverifiable,incomplete evidence,R03,1.0
+B000516,unverifiable,incomplete evidence,R03,1.0
+B000586,unverifiable,incomplete evidence,R03,1.0
+B000618,unverifiable,incomplete evidence,R03,1.0
+B000634,unverifiable,incomplete evidence,R03,1.0
+B000641,unverifiable,incomplete evidence,R03,1.0
+B000660,unverifiable,incomplete evidence,R03,1.0
+B000664,unverifiable,incomplete evidence,R03,1.0
+B000667,unverifiable,incomplete evidence,R03,1.0
+B000680,unverifiable,incomplete evidence,R03,1.0
+B000759,unverifiable,incomplete evidence,R03,1.0
+B000807,unverifiable,incomplete evidence,R03,1.0
+B000947,unverifiable,incomplete evidence,R03,1.0
+B000961,unverifiable,incomplete evidence,R03,1.0
+B000973,unverifiable,incomplete evidence,R03,1.0
+B001008,unverifiable,incomplete evidence,R03,1.0
+B001039,unverifiable,incomplete evidence,R03,1.0
+B001048,unverifiable,incomplete evidence,R03,1.0
+B001079,unverifiable,incomplete evidence,R03,1.0
+B001109,unverifiable,incomplete evidence,R03,1.0
+B001125,unverifiable,incomplete evidence,R03,1.0
+B001152,unverifiable,incomplete evidence,R03,1.0
+B001174,unverifiable,incomplete evidence,R03,1.0
+B001179,unverifiable,incomplete evidence,R03,1.0
+B001198,unverifiable,incomplete evidence,R03,1.0
+B001362,unverifiable,incomplete evidence,R03,1.0
+B001390,unverifiable,incomplete evidence,R03,1.0
+B001438,unverifiable,incomplete evidence,R03,1.0
+B001520,unverifiable,incomplete evidence,R03,1.0
+B001595,unverifiable,incomplete evidence,R03,1.0
+B001625,unverifiable,incomplete evidence,R03,1.0
+B001670,unverifiable,incomplete evidence,R03,1.0
+B001687,unverifiable,incomplete evidence,R03,1.0
+B001693,unverifiable,incomplete evidence,R03,1.0
+B001803,unverifiable,incomplete evidence,R03,1.0
+B001819,unverifiable,incomplete evidence,R03,1.0
+B001892,unverifiable,incomplete evidence,R03,1.0
+B001950,unverifiable,incomplete evidence,R03,1.0
+B000015,violation,chain certificate missing/invalid,R04,1.0
+B000022,violation,declared organic share < 95%,R04,1.0
+B000030,violation,declared organic share < 95%,R04,1.0
+B000038,violation,declared organic share < 95%,R04,1.0
+B000042,violation,chain certificate missing/invalid,R04,1.0
+B000046,violation,declared organic share < 95%,R04,1.0
+B000049,violation,declared organic share < 95%,R04,1.0
+B000085,violation,chain certificate missing/invalid,R04,1.0
+B000113,violation,chain certificate missing/invalid,R04,1.0
+B000118,unverifiable,event missing,R04,1.0
+B000144,violation,declared organic share < 95%,R04,1.0
+B000161,violation,declared organic share < 95%,R04,1.0
+B000163,violation,chain certificate missing/invalid,R04,1.0
+B000203,violation,declared organic share < 95%,R04,1.0
+B000205,violation,declared organic share < 95%,R04,1.0
+B000250,violation,declared organic share < 95%,R04,1.0
+B000261,violation,declared organic share < 95%,R04,1.0
+B000284,violation,declared organic share < 95%,R04,1.0
+B000298,violation,chain certificate missing/invalid,R04,1.0
+B000320,violation,declared organic share < 95%,R04,1.0
+B000331,violation,declared organic share < 95%,R04,1.0
+B000335,violation,chain certificate missing/invalid,R04,1.0
+B000378,violation,declared organic share < 95%,R04,1.0
+B000386,violation,chain certificate missing/invalid,R04,1.0
+B000391,violation,declared organic share < 95%,R04,1.0
+B000393,violation,declared organic share < 95%,R04,1.0
+B000423,violation,chain certificate missing/invalid,R04,1.0
+B000442,violation,declared organic share < 95%,R04,1.0
+B000453,violation,declared organic share < 95%,R04,1.0
+B000455,violation,declared organic share < 95%,R04,1.0
+B000467,violation,chain certificate missing/invalid,R04,1.0
+B000488,violation,declared organic share < 95%,R04,1.0
+B000493,violation,declared organic share < 95%,R04,1.0
+B000541,violation,declared organic share < 95%,R04,1.0
+B000565,violation,chain certificate missing/invalid,R04,1.0
+B000576,violation,declared organic share < 95%,R04,1.0
+B000622,violation,declared organic share < 95%,R04,1.0
+B000628,violation,chain certificate missing/invalid,R04,1.0
+B000675,violation,chain certificate missing/invalid,R04,1.0
+B000677,violation,chain certificate missing/invalid,R04,1.0
+B000681,violation,chain certificate missing/invalid,R04,1.0
+B000683,violation,chain certificate missing/invalid,R04,1.0
+B000710,violation,chain certificate missing/invalid,R04,1.0
+B000718,violation,chain certificate missing/invalid,R04,1.0
+B000738,violation,declared organic share < 95%,R04,1.0
+B000761,violation,chain certificate missing/invalid,R04,1.0
+B000792,violation,chain certificate missing/invalid,R04,1.0
+B000850,violation,chain certificate missing/invalid,R04,1.0
+B000893,violation,chain certificate missing/invalid,R04,1.0
+B000964,violation,declared organic share < 95%,R04,1.0
+B000965,violation,declared organic share < 95%,R04,1.0
+B000970,violation,declared organic share < 95%,R04,1.0
+B001029,violation,chain certificate missing/invalid,R04,1.0
+B001033,violation,declared organic share < 95%,R04,1.0
+B001035,violation,chain certificate missing/invalid,R04,1.0
+B001050,unverifiable,event missing,R04,1.0
+B001051,violation,chain certificate missing/invalid,R04,1.0
+B001063,violation,declared organic share < 95%,R04,1.0
+B001085,violation,declared organic share < 95%,R04,1.0
+B001093,violation,declared organic share < 95%,R04,1.0
+B001113,violation,chain certificate missing/invalid,R04,1.0
+B001126,violation,chain certificate missing/invalid,R04,1.0
+B001133,violation,chain certificate missing/invalid,R04,1.0
+B001176,violation,declared organic share < 95%,R04,1.0
+B001180,violation,declared organic share < 95%,R04,1.0
+B001248,violation,declared organic share < 95%,R04,1.0
+B001251,violation,declared organic share < 95%,R04,1.0
+B001265,violation,declared organic share < 95%,R04,1.0
+B001285,violation,chain certificate missing/invalid,R04,1.0
+B001303,violation,declared organic share < 95%,R04,1.0
+B001336,violation,declared organic share < 95%,R04,1.0
+B001343,violation,declared organic share < 95%,R04,1.0
+B001393,violation,declared organic share < 95%,R04,1.0
+B001415,violation,chain certificate missing/invalid,R04,1.0
+B001418,violation,chain certificate missing/invalid,R04,1.0
+B001419,violation,declared organic share < 95%,R04,1.0
+B001454,violation,declared organic share < 95%,R04,1.0
+B001491,violation,chain certificate missing/invalid,R04,1.0
+B001501,violation,declared organic share < 95%,R04,1.0
+B001507,violation,declared organic share < 95%,R04,1.0
+B001517,violation,chain certificate missing/invalid,R04,1.0
+B001526,violation,declared organic share < 95%,R04,1.0
+B001534,violation,chain certificate missing/invalid,R04,1.0
+B001547,violation,chain certificate missing/invalid,R04,1.0
+B001611,violation,chain certificate missing/invalid,R04,1.0
+B001642,violation,declared organic share < 95%,R04,1.0
+B001646,violation,chain certificate missing/invalid,R04,1.0
+B001651,violation,chain certificate missing/invalid,R04,1.0
+B001670,violation,declared organic share < 95%,R04,1.0
+B001671,violation,chain certificate missing/invalid,R04,1.0
+B001680,violation,chain certificate missing/invalid,R04,1.0
+B001684,violation,chain certificate missing/invalid,R04,1.0
+B001685,violation,declared organic share < 95%,R04,1.0
+B001697,violation,chain certificate missing/invalid,R04,1.0
+B001714,violation,declared organic share < 95%,R04,1.0
+B001717,violation,chain certificate missing/invalid,R04,1.0
+B001718,violation,declared organic share < 95%,R04,1.0
+B001755,violation,chain certificate missing/invalid,R04,1.0
+B001762,violation,chain certificate missing/invalid,R04,1.0
+B001776,violation,chain certificate missing/invalid,R04,1.0
+B001799,violation,chain certificate missing/invalid,R04,1.0
+B001838,violation,chain certificate missing/invalid,R04,1.0
+B001881,violation,chain certificate missing/invalid,R04,1.0
+B001903,violation,declared organic share < 95%,R04,1.0
+B001935,violation,declared organic share < 95%,R04,1.0
+B001972,violation,declared organic share < 95%,R04,1.0
+B001986,violation,chain certificate missing/invalid,R04,1.0
+B000005,violation,CERT00194,R05,1.0
+B001429,violation,CERT00138,R05,1.0
+B001422,violation,CERT00173,R05,1.0
+B001418,violation,CERT00100,R05,1.0
+B001415,violation,CERT00076,R05,1.0
+B001414,violation,CERT00194,R05,1.0
+B001393,violation,CERT00084,R05,1.0
+B001390,violation,CERT00173,R05,1.0
+B001382,violation,CERT00121,R05,1.0
+B001359,violation,CERT00202,R05,1.0
+B001344,violation,CERT00202,R05,1.0
+B001331,violation,CERT00119,R05,1.0
+B001315,violation,CERT00138,R05,1.0
+B001279,violation,CERT00175,R05,1.0
+B001272,violation,CERT00121,R05,1.0
+B001247,violation,CERT00195,R05,1.0
+B001243,violation,CERT00204,R05,1.0
+B001428,violation,CERT00210,R05,1.0
+B001003,violation,CERT00202,R05,1.0
+B001437,violation,CERT00194,R05,1.0
+B001547,violation,CERT00060,R05,1.0
+B001534,violation,CERT00084,R05,1.0
+B001523,violation,CERT00175,R05,1.0
+B001520,violation,CERT00121,R05,1.0
+B001518,violation,CERT00204,R05,1.0
+B001516,violation,CERT00205,R05,1.0
+B001514,violation,CERT00205,R05,1.0
+B001513,violation,CERT00204,R05,1.0
+B001502,violation,CERT00204,R05,1.0
+B001487,violation,CERT00194,R05,1.0
+B001472,violation,CERT00204,R05,1.0
+B001465,violation,CERT00210,R05,1.0
+B001464,violation,CERT00119,R05,1.0
+B001455,violation,CERT00202,R05,1.0
+B001451,violation,CERT00119,R05,1.0
+B001445,violation,CERT00175,R05,1.0
+B001239,violation,CERT00175,R05,1.0
+B001237,violation,CERT00119,R05,1.0
+B001234,violation,CERT00202,R05,1.0
+B001223,violation,CERT00153,R05,1.0
+B001102,violation,CERT00138,R05,1.0
+B001101,violation,CERT00175,R05,1.0
+B001095,violation,CERT00194,R05,1.0
+B001090,violation,CERT00207,R05,1.0
+B001084,violation,CERT00194,R05,1.0
+B001083,violation,CERT00205,R05,1.0
+B001081,violation,CERT00194,R05,1.0
+B001079,violation,CERT00175,R05,1.0
+B001078,violation,CERT00205,R05,1.0
+B001059,violation,CERT00210,R05,1.0
+B001054,violation,CERT00195,R05,1.0
+B001043,violation,CERT00210,R05,1.0
+B001042,violation,CERT00121,R05,1.0
+B001004,violation,CERT00207,R05,1.0
+B001108,violation,CERT00175,R05,1.0
+B001112,violation,CERT00119,R05,1.0
+B001113,violation,CERT00048,R05,1.0
+B001173,violation,CERT00121,R05,1.0
+B001206,violation,CERT00194,R05,1.0
+B001203,violation,CERT00138,R05,1.0
+B001198,violation,CERT00195,R05,1.0
+B001196,violation,CERT00194,R05,1.0
+B001177,violation,CERT00210,R05,1.0
+B001168,violation,CERT00119,R05,1.0
+B001160,violation,CERT00175,R05,1.0
+B001150,violation,CERT00194,R05,1.0
+B001133,violation,CERT00064,R05,1.0
+B001126,violation,CERT00084,R05,1.0
+B001123,violation,CERT00202,R05,1.0
+B001120,violation,CERT00121,R05,1.0
+B001118,violation,CERT00175,R05,1.0
+B001560,violation,CERT00194,R05,1.0
+B001575,violation,CERT00121,R05,1.0
+B001784,violation,CERT00195,R05,1.0
+B001885,violation,CERT00173,R05,1.0
+B001881,violation,CERT00084,R05,1.0
+B001880,violation,CERT00207,R05,1.0
+B001878,violation,CERT00202,R05,1.0
+B001877,violation,CERT00175,R05,1.0
+B001859,violation,CERT00202,R05,1.0
+B001858,violation,CERT00204,R05,1.0
+B001847,violation,CERT00204,R05,1.0
+B001839,violation,CERT00121,R05,1.0
+B001834,violation,CERT00194,R05,1.0
+B001832,violation,CERT00195,R05,1.0
+B001829,violation,CERT00195,R05,1.0
+B001826,violation,CERT00173,R05,1.0
+B001825,violation,CERT00210,R05,1.0
+B001813,violation,CERT00173,R05,1.0
+B001810,violation,CERT00175,R05,1.0
+B001799,violation,CERT00060,R05,1.0
+B001886,violation,CERT00121,R05,1.0
+B001890,violation,CERT00121,R05,1.0
+B001967,violation,CERT00173,R05,1.0
+B001994,violation,CERT00121,R05,1.0
+B001983,violation,CERT00175,R05,1.0
+B001979,violation,CERT00194,R05,1.0
+B001975,violation,CERT00204,R05,1.0
+B001973,violation,CERT00173,R05,1.0
+B001972,violation,CERT00041,R05,1.0
+B001952,violation,CERT00194,R05,1.0
+B001937,violation,CERT00207,R05,1.0
+B001927,violation,CERT00210,R05,1.0
+B001910,violation,CERT00194,R05,1.0
+B001904,violation,CERT00175,R05,1.0
+B001893,violation,CERT00173,R05,1.0
+B001778,violation,CERT00194,R05,1.0
+B001594,violation,CERT00173,R05,1.0
+B001671,violation,CERT00064,R05,1.0
+B001668,violation,CERT00121,R05,1.0
+B001663,violation,CERT00194,R05,1.0
+B001661,violation,CERT00202,R05,1.0
+B001653,violation,CERT00119,R05,1.0
+B001651,violation,CERT00048,R05,1.0
+B001648,violation,CERT00207,R05,1.0
+B001646,violation,CERT00084,R05,1.0
+B001638,violation,CERT00173,R05,1.0
+B001632,violation,CERT00121,R05,1.0
+B001615,violation,CERT00121,R05,1.0
+B001613,violation,CERT00173,R05,1.0
+B001610,violation,CERT00121,R05,1.0
+B001595,violation,CERT00194,R05,1.0
+B001683,violation,CERT00121,R05,1.0
+B001686,violation,CERT00194,R05,1.0
+B001759,violation,CERT00210,R05,1.0
+B001777,violation,CERT00194,R05,1.0
+B001776,violation,CERT00030,R05,1.0
+B001774,violation,CERT00195,R05,1.0
+B001769,violation,CERT00210,R05,1.0
+B001762,violation,CERT00030,R05,1.0
+B001755,violation,CERT00084,R05,1.0
+B001717,violation,CERT00084,R05,1.0
+B001743,violation,CERT00173,R05,1.0
+B001740,violation,CERT00194,R05,1.0
+B001738,violation,CERT00204,R05,1.0
+B001736,violation,CERT00210,R05,1.0
+B001728,violation,CERT00194,R05,1.0
+B001725,violation,CERT00173,R05,1.0
+B001008,violation,CERT00202,R05,1.0
+B000988,violation,CERT00204,R05,1.0
+B000576,violation,CERT00099,R05,1.0
+B000436,violation,CERT00121,R05,1.0
+B000423,violation,CERT00100,R05,1.0
+B000414,violation,CERT00165,R05,1.0
+B000386,violation,CERT00084,R05,1.0
+B000383,violation,CERT00204,R05,1.0
+B000368,violation,CERT00173,R05,1.0
+B000347,violation,CERT00138,R05,1.0
+B000337,violation,CERT00210,R05,1.0
+B000335,violation,CERT00100,R05,1.0
+B000317,violation,CERT00205,R05,1.0
+B000315,violation,CERT00210,R05,1.0
+B000311,violation,CERT00210,R05,1.0
+B000308,violation,CERT00119,R05,1.0
+B000294,violation,CERT00173,R05,1.0
+B000287,violation,CERT00121,R05,1.0
+B000442,violation,CERT00064,R05,1.0
+B000449,violation,CERT00173,R05,1.0
+B000521,violation,CERT00207,R05,1.0
+B000570,violation,CERT00202,R05,1.0
+B000969,violation,CERT00207,R05,1.0
+B000560,violation,CERT00204,R05,1.0
+B000557,violation,CERT00119,R05,1.0
+B000556,violation,CERT00138,R05,1.0
+B000527,violation,CERT00210,R05,1.0
+B000516,violation,CERT00173,R05,1.0
+B000461,violation,CERT00173,R05,1.0
+B000503,violation,CERT00138,R05,1.0
+B000485,violation,CERT00207,R05,1.0
+B000480,violation,CERT00195,R05,1.0
+B000478,violation,CERT00210,R05,1.0
+B000467,violation,CERT00100,R05,1.0
+B000462,violation,CERT00194,R05,1.0
+B000277,violation,CERT00173,R05,1.0
+B000274,violation,CERT00205,R05,1.0
+B000066,violation,CERT00207,R05,1.0
+B000113,violation,CERT00041,R05,1.0
+B000091,violation,CERT00173,R05,1.0
+B000085,violation,CERT00076,R05,1.0
+B000077,violation,CERT00202,R05,1.0
+B000069,violation,CERT00204,R05,1.0
+B000065,violation,CERT00210,R05,1.0
+B000125,violation,CERT00202,R05,1.0
+B000042,violation,CERT00044,R05,1.0
+B000041,violation,CERT00173,R05,1.0
+B000034,violation,CERT00210,R05,1.0
+B000024,violation,CERT00210,R05,1.0
+B000017,violation,CERT00121,R05,1.0
+B000015,violation,CERT00100,R05,1.0
+B000014,violation,CERT00202,R05,1.0
+B000130,violation,CERT00119,R05,1.0
+B000194,violation,CERT00195,R05,1.0
+B000267,violation,CERT00210,R05,1.0
+B000256,violation,CERT00194,R05,1.0
+B000248,violation,CERT00173,R05,1.0
+B000226,violation,CERT00194,R05,1.0
+B000204,violation,CERT00195,R05,1.0
+B000201,violation,CERT00173,R05,1.0
+B000177,violation,CERT00121,R05,1.0
+B000134,violation,CERT00175,R05,1.0
+B000163,violation,CERT00084,R05,1.0
+B000161,violation,CERT00076,R05,1.0
+B000160,violation,CERT00119,R05,1.0
+B000156,violation,CERT00175,R05,1.0
+B000152,violation,CERT00205,R05,1.0
+B000144,violation,CERT00165,R05,1.0
+B000143,violation,CERT00138,R05,1.0
+B000571,violation,CERT00194,R05,1.0
+B000565,violation,CERT00064,R05,1.0
+B000579,violation,CERT00204,R05,1.0
+B000811,violation,CERT00138,R05,1.0
+B000850,violation,CERT00030,R05,1.0
+B000849,violation,CERT00202,R05,1.0
+B000848,violation,CERT00205,R05,1.0
+B000841,violation,CERT00210,R05,1.0
+B000836,violation,CERT00121,R05,1.0
+B000833,violation,CERT00202,R05,1.0
+B000827,violation,CERT00121,R05,1.0
+B000802,violation,CERT00119,R05,1.0
+B000857,violation,CERT00121,R05,1.0
+B000770,violation,CERT00195,R05,1.0
+B000769,violation,CERT00210,R05,1.0
+B000767,violation,CERT00173,R05,1.0
+B000766,violation,CERT00204,R05,1.0
+B000615,violation,CERT00194,R05,1.0
+B000759,violation,CERT00202,R05,1.0
+B000749,violation,CERT00175,R05,1.0
+B000854,violation,CERT00165,R05,1.0
+B000864,violation,CERT00202,R05,1.0
+B000737,violation,CERT00204,R05,1.0
+B000920,violation,CERT00173,R05,1.0
+B000964,violation,CERT00044,R05,1.0
+B000961,violation,CERT00119,R05,1.0
+B000957,violation,CERT00119,R05,1.0
+B000936,violation,CERT00173,R05,1.0
+B000914,violation,CERT00210,R05,1.0
+B000870,violation,CERT00204,R05,1.0
+B000902,violation,CERT00194,R05,1.0
+B000900,violation,CERT00204,R05,1.0
+B000896,violation,CERT00195,R05,1.0
+B000893,violation,CERT00099,R05,1.0
+B000892,violation,CERT00202,R05,1.0
+B000887,violation,CERT00210,R05,1.0
+B000744,violation,CERT00194,R05,1.0
+B000761,violation,CERT00099,R05,1.0
+B000672,violation,CERT00119,R05,1.0
+B000649,violation,CERT00194,R05,1.0
+B000721,violation,CERT00165,R05,1.0
+B000671,violation,CERT00138,R05,1.0
+B000669,violation,CERT00202,R05,1.0
+B000664,violation,CERT00202,R05,1.0
+B000660,violation,CERT00119,R05,1.0
+B000659,violation,CERT00173,R05,1.0
+B000680,violation,CERT00210,R05,1.0
+B000648,violation,CERT00210,R05,1.0
+B000634,violation,CERT00202,R05,1.0
+B000629,violation,CERT00173,R05,1.0
+B000628,violation,CERT00048,R05,1.0
+B000618,violation,CERT00210,R05,1.0
+B000675,violation,CERT00100,R05,1.0
+B001995,violation,CERT00194,R05,1.0
+B000696,violation,CERT00121,R05,1.0
+B000718,violation,CERT00100,R05,1.0
+B000707,violation,CERT00119,R05,1.0
+B000702,violation,CERT00173,R05,1.0
+B000714,violation,CERT00138,R05,1.0
+B000684,violation,CERT00173,R05,1.0
+B000681,violation,CERT00100,R05,1.0
+B000719,violation,CERT00210,R05,1.0
+B000008,unverifiable,CERT00137,R05,1.0
+B001050,unverifiable,CERT00003,R05,1.0
+B001572,unverifiable,CERT00132,R05,1.0
+B000320,unverifiable,CERT00003,R05,1.0
+B001125,unverifiable,CERT00117,R05,1.0
+B000345,unverifiable,CERT00119,R05,1.0
+B000641,unverifiable,CERT00114,R05,1.0
+B000904,unverifiable,CERT00126,R05,1.0
+B000443,unverifiable,CERT00118,R05,1.0
+B000713,unverifiable,CERT00107,R05,1.0
+B001803,unverifiable,CERT00109,R05,1.0
+B000118,unverifiable,CERT00001,R05,1.0
+B001807,unverifiable,CERT00144,R05,1.0
+B000140,unverifiable,CERT00117,R05,1.0
+B000405,unverifiable,CERT00120,R05,1.0
+B000151,unverifiable,CERT00139,R05,1.0
+B000738,unverifiable,CERT00004,R05,1.0
+B000003,violation,recycled_content,R06,1.0
+B000005,violation,restricted_substances_free,R06,1.0
+B000006,violation,restricted_substances_free,R06,1.0
+B000010,violation,restricted_substances_free,R06,1.0
+B000013,violation,restricted_substances_free,R06,1.0
+B000015,violation,restricted_substances_free,R06,1.0
+B000019,violation,restricted_substances_free,R06,1.0
+B000022,violation,restricted_substances_free,R06,1.0
+B000023,violation,restricted_substances_free,R06,1.0
+B000025,violation,restricted_substances_free,R06,1.0
+B000031,violation,restricted_substances_free,R06,1.0
+B000033,violation,restricted_substances_free,R06,1.0
+B000034,violation,restricted_substances_free,R06,1.0
+B000044,violation,restricted_substances_free,R06,1.0
+B000045,violation,restricted_substances_free,R06,1.0
+B000049,violation,organic,R06,1.0
+B000050,violation,restricted_substances_free,R06,1.0
+B000052,violation,restricted_substances_free,R06,1.0
+B000054,violation,restricted_substances_free,R06,1.0
+B000055,violation,restricted_substances_free,R06,1.0
+B000058,violation,restricted_substances_free,R06,1.0
+B000059,violation,restricted_substances_free,R06,1.0
+B000068,violation,restricted_substances_free,R06,1.0
+B000070,violation,restricted_substances_free,R06,1.0
+B000072,violation,restricted_substances_free,R06,1.0
+B000083,violation,restricted_substances_free,R06,1.0
+B000091,violation,restricted_substances_free,R06,1.0
+B000094,violation,restricted_substances_free,R06,1.0
+B000095,violation,restricted_substances_free,R06,1.0
+B000100,violation,restricted_substances_free,R06,1.0
+B000103,violation,restricted_substances_free,R06,1.0
+B000107,violation,restricted_substances_free,R06,1.0
+B000110,violation,restricted_substances_free,R06,1.0
+B000111,violation,restricted_substances_free,R06,1.0
+B000115,violation,restricted_substances_free,R06,1.0
+B000117,violation,restricted_substances_free,R06,1.0
+B000121,violation,restricted_substances_free,R06,1.0
+B000123,violation,recycled_content,R06,1.0
+B000125,violation,restricted_substances_free,R06,1.0
+B000127,violation,restricted_substances_free,R06,1.0
+B000128,violation,restricted_substances_free,R06,1.0
+B000131,violation,restricted_substances_free,R06,1.0
+B000134,violation,restricted_substances_free,R06,1.0
+B000140,violation,restricted_substances_free,R06,1.0
+B000142,violation,restricted_substances_free,R06,1.0
+B000150,violation,restricted_substances_free,R06,1.0
+B000151,violation,restricted_substances_free,R06,1.0
+B000152,violation,restricted_substances_free,R06,1.0
+B000154,violation,restricted_substances_free,R06,1.0
+B000156,violation,restricted_substances_free,R06,1.0
+B000160,violation,restricted_substances_free,R06,1.0
+B000165,violation,restricted_substances_free,R06,1.0
+B000168,violation,restricted_substances_free,R06,1.0
+B000169,violation,restricted_substances_free,R06,1.0
+B000170,violation,restricted_substances_free,R06,1.0
+B000175,violation,restricted_substances_free,R06,1.0
+B000176,violation,restricted_substances_free,R06,1.0
+B000180,violation,restricted_substances_free,R06,1.0
+B000181,violation,restricted_substances_free,R06,1.0
+B000183,violation,restricted_substances_free,R06,1.0
+B000185,violation,restricted_substances_free,R06,1.0
+B000192,violation,restricted_substances_free,R06,1.0
+B000197,violation,restricted_substances_free,R06,1.0
+B000200,violation,restricted_substances_free,R06,1.0
+B000204,violation,restricted_substances_free,R06,1.0
+B000207,violation,restricted_substances_free,R06,1.0
+B000212,violation,recycled_content,R06,1.0
+B000213,violation,restricted_substances_free,R06,1.0
+B000219,violation,restricted_substances_free,R06,1.0
+B000220,violation,restricted_substances_free,R06,1.0
+B000222,violation,restricted_substances_free,R06,1.0
+B000226,violation,restricted_substances_free,R06,1.0
+B000234,violation,restricted_substances_free,R06,1.0
+B000236,violation,restricted_substances_free,R06,1.0
+B000237,violation,restricted_substances_free,R06,1.0
+B000238,violation,restricted_substances_free,R06,1.0
+B000239,violation,restricted_substances_free,R06,1.0
+B000240,violation,recycled_content,R06,1.0
+B000248,violation,restricted_substances_free,R06,1.0
+B000251,violation,restricted_substances_free,R06,1.0
+B000252,violation,restricted_substances_free,R06,1.0
+B000258,violation,restricted_substances_free,R06,1.0
+B000262,violation,restricted_substances_free,R06,1.0
+B000263,violation,restricted_substances_free,R06,1.0
+B000269,violation,restricted_substances_free,R06,1.0
+B000274,violation,restricted_substances_free,R06,1.0
+B000276,violation,restricted_substances_free,R06,1.0
+B000278,violation,restricted_substances_free,R06,1.0
+B000279,violation,restricted_substances_free,R06,1.0
+B000285,violation,restricted_substances_free,R06,1.0
+B000286,violation,recycled_content,R06,1.0
+B000287,violation,restricted_substances_free,R06,1.0
+B000291,violation,organic,R06,1.0
+B000296,violation,restricted_substances_free,R06,1.0
+B000305,violation,restricted_substances_free,R06,1.0
+B000309,violation,restricted_substances_free,R06,1.0
+B000315,violation,restricted_substances_free,R06,1.0
+B000316,violation,restricted_substances_free,R06,1.0
+B000318,violation,restricted_substances_free,R06,1.0
+B000323,violation,restricted_substances_free,R06,1.0
+B000324,violation,restricted_substances_free,R06,1.0
+B000325,violation,restricted_substances_free,R06,1.0
+B000327,violation,restricted_substances_free,R06,1.0
+B000330,violation,restricted_substances_free,R06,1.0
+B000332,violation,restricted_substances_free,R06,1.0
+B000338,violation,restricted_substances_free,R06,1.0
+B000340,violation,restricted_substances_free,R06,1.0
+B000347,violation,restricted_substances_free,R06,1.0
+B000348,violation,restricted_substances_free,R06,1.0
+B000349,violation,restricted_substances_free,R06,1.0
+B000352,violation,restricted_substances_free,R06,1.0
+B000353,violation,restricted_substances_free,R06,1.0
+B000356,violation,restricted_substances_free,R06,1.0
+B000358,violation,restricted_substances_free,R06,1.0
+B000359,violation,restricted_substances_free,R06,1.0
+B000361,violation,restricted_substances_free,R06,1.0
+B000362,violation,restricted_substances_free,R06,1.0
+B000363,violation,restricted_substances_free,R06,1.0
+B000369,violation,restricted_substances_free,R06,1.0
+B000379,violation,restricted_substances_free,R06,1.0
+B000383,violation,restricted_substances_free,R06,1.0
+B000384,violation,restricted_substances_free,R06,1.0
+B000387,violation,restricted_substances_free,R06,1.0
+B000388,violation,restricted_substances_free,R06,1.0
+B000389,violation,recycled_content,R06,1.0
+B000392,violation,restricted_substances_free,R06,1.0
+B000397,violation,restricted_substances_free,R06,1.0
+B000398,violation,restricted_substances_free,R06,1.0
+B000401,violation,restricted_substances_free,R06,1.0
+B000405,violation,restricted_substances_free,R06,1.0
+B000412,violation,restricted_substances_free,R06,1.0
+B000415,violation,restricted_substances_free,R06,1.0
+B000416,violation,restricted_substances_free,R06,1.0
+B000417,violation,restricted_substances_free,R06,1.0
+B000418,violation,restricted_substances_free,R06,1.0
+B000419,violation,restricted_substances_free,R06,1.0
+B000421,violation,restricted_substances_free,R06,1.0
+B000424,violation,restricted_substances_free,R06,1.0
+B000426,violation,restricted_substances_free,R06,1.0
+B000428,violation,restricted_substances_free,R06,1.0
+B000430,violation,restricted_substances_free,R06,1.0
+B000433,violation,restricted_substances_free,R06,1.0
+B000434,violation,restricted_substances_free,R06,1.0
+B000438,violation,restricted_substances_free,R06,1.0
+B000441,violation,restricted_substances_free,R06,1.0
+B000444,violation,recycled_content,R06,1.0
+B000446,violation,restricted_substances_free,R06,1.0
+B000448,violation,restricted_substances_free,R06,1.0
+B000449,violation,restricted_substances_free,R06,1.0
+B000455,violation,restricted_substances_free,R06,1.0
+B000456,violation,restricted_substances_free,R06,1.0
+B000458,violation,restricted_substances_free,R06,1.0
+B000461,violation,restricted_substances_free,R06,1.0
+B000463,violation,restricted_substances_free,R06,1.0
+B000468,violation,restricted_substances_free,R06,1.0
+B000473,violation,restricted_substances_free,R06,1.0
+B000478,violation,restricted_substances_free,R06,1.0
+B000483,violation,recycled_content,R06,1.0
+B000484,violation,restricted_substances_free,R06,1.0
+B000485,violation,restricted_substances_free,R06,1.0
+B000486,violation,restricted_substances_free,R06,1.0
+B000491,violation,restricted_substances_free,R06,1.0
+B000494,violation,restricted_substances_free,R06,1.0
+B000500,violation,restricted_substances_free,R06,1.0
+B000502,violation,restricted_substances_free,R06,1.0
+B000507,violation,restricted_substances_free,R06,1.0
+B000508,violation,restricted_substances_free,R06,1.0
+B000509,violation,restricted_substances_free,R06,1.0
+B000510,violation,restricted_substances_free,R06,1.0
+B000513,violation,restricted_substances_free,R06,1.0
+B000517,violation,restricted_substances_free,R06,1.0
+B000520,violation,restricted_substances_free,R06,1.0
+B000521,violation,restricted_substances_free,R06,1.0
+B000522,violation,restricted_substances_free,R06,1.0
+B000525,violation,restricted_substances_free,R06,1.0
+B000529,violation,restricted_substances_free,R06,1.0
+B000533,violation,restricted_substances_free,R06,1.0
+B000534,violation,restricted_substances_free,R06,1.0
+B000539,violation,restricted_substances_free,R06,1.0
+B000548,violation,restricted_substances_free,R06,1.0
+B000556,violation,restricted_substances_free,R06,1.0
+B000557,violation,restricted_substances_free,R06,1.0
+B000558,violation,restricted_substances_free,R06,1.0
+B000561,violation,restricted_substances_free,R06,1.0
+B000562,violation,restricted_substances_free,R06,1.0
+B000568,violation,restricted_substances_free,R06,1.0
+B000569,violation,restricted_substances_free,R06,1.0
+B000572,violation,restricted_substances_free,R06,1.0
+B000574,violation,organic,R06,1.0
+B000578,violation,restricted_substances_free,R06,1.0
+B000584,violation,restricted_substances_free,R06,1.0
+B000585,violation,restricted_substances_free,R06,1.0
+B000588,violation,restricted_substances_free,R06,1.0
+B000590,violation,restricted_substances_free,R06,1.0
+B000595,violation,restricted_substances_free,R06,1.0
+B000601,violation,organic,R06,1.0
+B000604,violation,restricted_substances_free,R06,1.0
+B000605,violation,restricted_substances_free,R06,1.0
+B000606,violation,restricted_substances_free,R06,1.0
+B000611,violation,recycled_content,R06,1.0
+B000616,violation,restricted_substances_free,R06,1.0
+B000619,violation,restricted_substances_free,R06,1.0
+B000621,violation,restricted_substances_free,R06,1.0
+B000624,violation,restricted_substances_free,R06,1.0
+B000628,violation,restricted_substances_free,R06,1.0
+B000631,violation,restricted_substances_free,R06,1.0
+B000632,violation,restricted_substances_free,R06,1.0
+B000635,violation,restricted_substances_free,R06,1.0
+B000638,violation,restricted_substances_free,R06,1.0
+B000639,violation,restricted_substances_free,R06,1.0
+B000640,violation,restricted_substances_free,R06,1.0
+B000641,violation,restricted_substances_free,R06,1.0
+B000656,violation,restricted_substances_free,R06,1.0
+B000659,violation,restricted_substances_free,R06,1.0
+B000661,violation,restricted_substances_free,R06,1.0
+B000662,violation,restricted_substances_free,R06,1.0
+B000668,violation,restricted_substances_free,R06,1.0
+B000673,violation,restricted_substances_free,R06,1.0
+B000679,violation,restricted_substances_free,R06,1.0
+B000681,violation,restricted_substances_free,R06,1.0
+B000683,violation,restricted_substances_free,R06,1.0
+B000685,violation,restricted_substances_free,R06,1.0
+B000686,violation,restricted_substances_free,R06,1.0
+B000687,violation,restricted_substances_free,R06,1.0
+B000688,violation,restricted_substances_free,R06,1.0
+B000689,violation,restricted_substances_free,R06,1.0
+B000690,violation,restricted_substances_free,R06,1.0
+B000691,violation,restricted_substances_free,R06,1.0
+B000693,violation,restricted_substances_free,R06,1.0
+B000694,violation,restricted_substances_free,R06,1.0
+B000695,violation,restricted_substances_free,R06,1.0
+B000698,violation,restricted_substances_free,R06,1.0
+B000702,violation,restricted_substances_free,R06,1.0
+B000706,violation,restricted_substances_free,R06,1.0
+B000708,violation,restricted_substances_free,R06,1.0
+B000711,violation,recycled_content,R06,1.0
+B000713,violation,restricted_substances_free,R06,1.0
+B000719,violation,restricted_substances_free,R06,1.0
+B000721,violation,restricted_substances_free,R06,1.0
+B000722,violation,restricted_substances_free,R06,1.0
+B000723,violation,restricted_substances_free,R06,1.0
+B000726,violation,restricted_substances_free,R06,1.0
+B000728,violation,restricted_substances_free,R06,1.0
+B000729,violation,restricted_substances_free,R06,1.0
+B000730,violation,restricted_substances_free,R06,1.0
+B000731,violation,restricted_substances_free,R06,1.0
+B000732,violation,restricted_substances_free,R06,1.0
+B000734,violation,restricted_substances_free,R06,1.0
+B000737,violation,restricted_substances_free,R06,1.0
+B000738,violation,restricted_substances_free,R06,1.0
+B000744,violation,restricted_substances_free,R06,1.0
+B000747,violation,restricted_substances_free,R06,1.0
+B000750,violation,restricted_substances_free,R06,1.0
+B000751,violation,restricted_substances_free,R06,1.0
+B000755,violation,restricted_substances_free,R06,1.0
+B000756,violation,restricted_substances_free,R06,1.0
+B000763,violation,restricted_substances_free,R06,1.0
+B000765,violation,restricted_substances_free,R06,1.0
+B000767,violation,restricted_substances_free,R06,1.0
+B000768,violation,restricted_substances_free,R06,1.0
+B000769,violation,restricted_substances_free,R06,1.0
+B000773,violation,restricted_substances_free,R06,1.0
+B000776,violation,restricted_substances_free,R06,1.0
+B000780,violation,restricted_substances_free,R06,1.0
+B000781,violation,restricted_substances_free,R06,1.0
+B000786,violation,restricted_substances_free,R06,1.0
+B000792,violation,organic,R06,1.0
+B000795,violation,restricted_substances_free,R06,1.0
+B000797,violation,restricted_substances_free,R06,1.0
+B000802,violation,restricted_substances_free,R06,1.0
+B000805,violation,restricted_substances_free,R06,1.0
+B000809,violation,restricted_substances_free,R06,1.0
+B000813,violation,restricted_substances_free,R06,1.0
+B000820,violation,restricted_substances_free,R06,1.0
+B000822,violation,restricted_substances_free,R06,1.0
+B000823,violation,restricted_substances_free,R06,1.0
+B000824,violation,restricted_substances_free,R06,1.0
+B000825,violation,restricted_substances_free,R06,1.0
+B000827,violation,restricted_substances_free,R06,1.0
+B000829,violation,restricted_substances_free,R06,1.0
+B000840,violation,restricted_substances_free,R06,1.0
+B000849,violation,restricted_substances_free,R06,1.0
+B000851,violation,restricted_substances_free,R06,1.0
+B000854,violation,restricted_substances_free,R06,1.0
+B000863,violation,restricted_substances_free,R06,1.0
+B000871,violation,restricted_substances_free,R06,1.0
+B000872,violation,restricted_substances_free,R06,1.0
+B000873,violation,restricted_substances_free,R06,1.0
+B000878,violation,restricted_substances_free,R06,1.0
+B000880,violation,restricted_substances_free,R06,1.0
+B000881,violation,restricted_substances_free,R06,1.0
+B000882,violation,recycled_content,R06,1.0
+B000885,violation,restricted_substances_free,R06,1.0
+B000892,violation,restricted_substances_free,R06,1.0
+B000893,violation,restricted_substances_free,R06,1.0
+B000895,violation,restricted_substances_free,R06,1.0
+B000896,violation,restricted_substances_free,R06,1.0
+B000898,violation,restricted_substances_free,R06,1.0
+B000899,violation,restricted_substances_free,R06,1.0
+B000900,violation,restricted_substances_free,R06,1.0
+B000907,violation,restricted_substances_free,R06,1.0
+B000909,violation,restricted_substances_free,R06,1.0
+B000912,violation,restricted_substances_free,R06,1.0
+B000915,violation,restricted_substances_free,R06,1.0
+B000916,violation,restricted_substances_free,R06,1.0
+B000920,violation,restricted_substances_free,R06,1.0
+B000921,violation,restricted_substances_free,R06,1.0
+B000923,violation,restricted_substances_free,R06,1.0
+B000924,violation,restricted_substances_free,R06,1.0
+B000925,violation,restricted_substances_free,R06,1.0
+B000928,violation,restricted_substances_free,R06,1.0
+B000929,violation,restricted_substances_free,R06,1.0
+B000931,violation,restricted_substances_free,R06,1.0
+B000933,violation,restricted_substances_free,R06,1.0
+B000936,violation,restricted_substances_free,R06,1.0
+B000940,violation,restricted_substances_free,R06,1.0
+B000941,violation,restricted_substances_free,R06,1.0
+B000944,violation,restricted_substances_free,R06,1.0
+B000946,violation,restricted_substances_free,R06,1.0
+B000948,violation,restricted_substances_free,R06,1.0
+B000951,violation,restricted_substances_free,R06,1.0
+B000952,violation,restricted_substances_free,R06,1.0
+B000953,violation,restricted_substances_free,R06,1.0
+B000958,violation,restricted_substances_free,R06,1.0
+B000965,violation,organic,R06,1.0
+B000969,violation,restricted_substances_free,R06,1.0
+B000972,violation,restricted_substances_free,R06,1.0
+B000973,violation,restricted_substances_free,R06,1.0
+B000974,violation,restricted_substances_free,R06,1.0
+B000975,violation,restricted_substances_free,R06,1.0
+B000979,violation,restricted_substances_free,R06,1.0
+B000982,violation,restricted_substances_free,R06,1.0
+B000984,violation,restricted_substances_free,R06,1.0
+B000986,violation,restricted_substances_free,R06,1.0
+B000992,violation,restricted_substances_free,R06,1.0
+B000994,violation,restricted_substances_free,R06,1.0
+B000995,violation,restricted_substances_free,R06,1.0
+B000996,violation,restricted_substances_free,R06,1.0
+B000997,violation,restricted_substances_free,R06,1.0
+B000998,violation,restricted_substances_free,R06,1.0
+B000999,violation,restricted_substances_free,R06,1.0
+B001001,violation,restricted_substances_free,R06,1.0
+B001003,violation,restricted_substances_free,R06,1.0
+B001007,violation,restricted_substances_free,R06,1.0
+B001008,violation,restricted_substances_free,R06,1.0
+B001013,violation,restricted_substances_free,R06,1.0
+B001014,violation,restricted_substances_free,R06,1.0
+B001016,violation,restricted_substances_free,R06,1.0
+B001019,violation,restricted_substances_free,R06,1.0
+B001028,violation,restricted_substances_free,R06,1.0
+B001031,violation,restricted_substances_free,R06,1.0
+B001037,violation,restricted_substances_free,R06,1.0
+B001038,violation,restricted_substances_free,R06,1.0
+B001041,violation,restricted_substances_free,R06,1.0
+B001046,violation,restricted_substances_free,R06,1.0
+B001047,violation,restricted_substances_free,R06,1.0
+B001048,violation,restricted_substances_free,R06,1.0
+B001052,violation,restricted_substances_free,R06,1.0
+B001053,violation,restricted_substances_free,R06,1.0
+B001056,violation,restricted_substances_free,R06,1.0
+B001058,violation,restricted_substances_free,R06,1.0
+B001060,violation,restricted_substances_free,R06,1.0
+B001061,violation,restricted_substances_free,R06,1.0
+B001067,violation,restricted_substances_free,R06,1.0
+B001069,violation,restricted_substances_free,R06,1.0
+B001072,violation,restricted_substances_free,R06,1.0
+B001073,violation,restricted_substances_free,R06,1.0
+B001074,violation,restricted_substances_free,R06,1.0
+B001077,violation,restricted_substances_free,R06,1.0
+B001078,violation,restricted_substances_free,R06,1.0
+B001085,violation,restricted_substances_free,R06,1.0
+B001086,violation,restricted_substances_free,R06,1.0
+B001092,violation,restricted_substances_free,R06,1.0
+B001095,violation,restricted_substances_free,R06,1.0
+B001096,violation,restricted_substances_free,R06,1.0
+B001101,violation,restricted_substances_free,R06,1.0
+B001105,violation,restricted_substances_free,R06,1.0
+B001108,violation,restricted_substances_free,R06,1.0
+B001113,violation,restricted_substances_free,R06,1.0
+B001114,violation,restricted_substances_free,R06,1.0
+B001116,violation,restricted_substances_free,R06,1.0
+B001128,violation,restricted_substances_free,R06,1.0
+B001129,violation,restricted_substances_free,R06,1.0
+B001131,violation,restricted_substances_free,R06,1.0
+B001135,violation,restricted_substances_free,R06,1.0
+B001140,violation,restricted_substances_free,R06,1.0
+B001143,violation,restricted_substances_free,R06,1.0
+B001147,violation,restricted_substances_free,R06,1.0
+B001148,violation,restricted_substances_free,R06,1.0
+B001152,violation,restricted_substances_free,R06,1.0
+B001154,violation,restricted_substances_free,R06,1.0
+B001156,violation,restricted_substances_free,R06,1.0
+B001164,violation,restricted_substances_free,R06,1.0
+B001166,violation,recycled_content,R06,1.0
+B001170,violation,restricted_substances_free,R06,1.0
+B001171,violation,restricted_substances_free,R06,1.0
+B001176,violation,organic,R06,1.0
+B001179,violation,restricted_substances_free,R06,1.0
+B001181,violation,restricted_substances_free,R06,1.0
+B001182,violation,restricted_substances_free,R06,1.0
+B001184,violation,restricted_substances_free,R06,1.0
+B001185,violation,organic,R06,1.0
+B001186,violation,restricted_substances_free,R06,1.0
+B001187,violation,restricted_substances_free,R06,1.0
+B001191,violation,recycled_content,R06,1.0
+B001196,violation,restricted_substances_free,R06,1.0
+B001197,violation,restricted_substances_free,R06,1.0
+B001199,violation,restricted_substances_free,R06,1.0
+B001202,violation,restricted_substances_free,R06,1.0
+B001203,violation,restricted_substances_free,R06,1.0
+B001205,violation,restricted_substances_free,R06,1.0
+B001207,violation,restricted_substances_free,R06,1.0
+B001209,violation,restricted_substances_free,R06,1.0
+B001213,violation,restricted_substances_free,R06,1.0
+B001215,violation,restricted_substances_free,R06,1.0
+B001216,violation,restricted_substances_free,R06,1.0
+B001222,violation,restricted_substances_free,R06,1.0
+B001223,violation,restricted_substances_free,R06,1.0
+B001225,violation,restricted_substances_free,R06,1.0
+B001229,violation,restricted_substances_free,R06,1.0
+B001230,violation,restricted_substances_free,R06,1.0
+B001234,violation,restricted_substances_free,R06,1.0
+B001236,violation,restricted_substances_free,R06,1.0
+B001238,violation,recycled_content,R06,1.0
+B001241,violation,restricted_substances_free,R06,1.0
+B001243,violation,restricted_substances_free,R06,1.0
+B001244,violation,restricted_substances_free,R06,1.0
+B001245,violation,restricted_substances_free,R06,1.0
+B001250,violation,restricted_substances_free,R06,1.0
+B001256,violation,recycled_content,R06,1.0
+B001258,violation,restricted_substances_free,R06,1.0
+B001259,violation,restricted_substances_free,R06,1.0
+B001269,violation,restricted_substances_free,R06,1.0
+B001276,violation,restricted_substances_free,R06,1.0
+B001280,violation,restricted_substances_free,R06,1.0
+B001281,violation,restricted_substances_free,R06,1.0
+B001284,violation,restricted_substances_free,R06,1.0
+B001287,violation,restricted_substances_free,R06,1.0
+B001290,violation,restricted_substances_free,R06,1.0
+B001291,violation,restricted_substances_free,R06,1.0
+B001293,violation,restricted_substances_free,R06,1.0
+B001294,violation,restricted_substances_free,R06,1.0
+B001295,violation,restricted_substances_free,R06,1.0
+B001303,violation,organic,R06,1.0
+B001305,violation,restricted_substances_free,R06,1.0
+B001307,violation,restricted_substances_free,R06,1.0
+B001312,violation,recycled_content,R06,1.0
+B001317,violation,restricted_substances_free,R06,1.0
+B001318,violation,restricted_substances_free,R06,1.0
+B001321,violation,restricted_substances_free,R06,1.0
+B001324,violation,restricted_substances_free,R06,1.0
+B001328,violation,restricted_substances_free,R06,1.0
+B001331,violation,restricted_substances_free,R06,1.0
+B001332,violation,restricted_substances_free,R06,1.0
+B001339,violation,restricted_substances_free,R06,1.0
+B001340,violation,restricted_substances_free,R06,1.0
+B001343,violation,restricted_substances_free,R06,1.0
+B001346,violation,restricted_substances_free,R06,1.0
+B001347,violation,restricted_substances_free,R06,1.0
+B001349,violation,restricted_substances_free,R06,1.0
+B001350,violation,restricted_substances_free,R06,1.0
+B001351,violation,recycled_content,R06,1.0
+B001352,violation,recycled_content,R06,1.0
+B001354,violation,restricted_substances_free,R06,1.0
+B001359,violation,restricted_substances_free,R06,1.0
+B001362,violation,recycled_content,R06,1.0
+B001363,violation,restricted_substances_free,R06,1.0
+B001366,violation,restricted_substances_free,R06,1.0
+B001368,violation,restricted_substances_free,R06,1.0
+B001369,violation,restricted_substances_free,R06,1.0
+B001372,violation,restricted_substances_free,R06,1.0
+B001373,violation,restricted_substances_free,R06,1.0
+B001376,violation,restricted_substances_free,R06,1.0
+B001382,violation,restricted_substances_free,R06,1.0
+B001384,violation,restricted_substances_free,R06,1.0
+B001390,violation,restricted_substances_free,R06,1.0
+B001393,violation,restricted_substances_free,R06,1.0
+B001394,violation,restricted_substances_free,R06,1.0
+B001395,violation,restricted_substances_free,R06,1.0
+B001396,violation,restricted_substances_free,R06,1.0
+B001398,violation,restricted_substances_free,R06,1.0
+B001400,violation,restricted_substances_free,R06,1.0
+B001401,violation,restricted_substances_free,R06,1.0
+B001407,violation,restricted_substances_free,R06,1.0
+B001412,violation,restricted_substances_free,R06,1.0
+B001413,violation,restricted_substances_free,R06,1.0
+B001415,violation,restricted_substances_free,R06,1.0
+B001417,violation,restricted_substances_free,R06,1.0
+B001418,violation,restricted_substances_free,R06,1.0
+B001421,violation,restricted_substances_free,R06,1.0
+B001423,violation,restricted_substances_free,R06,1.0
+B001425,violation,restricted_substances_free,R06,1.0
+B001432,violation,restricted_substances_free,R06,1.0
+B001435,violation,restricted_substances_free,R06,1.0
+B001437,violation,restricted_substances_free,R06,1.0
+B001438,violation,restricted_substances_free,R06,1.0
+B001439,violation,restricted_substances_free,R06,1.0
+B001448,violation,restricted_substances_free,R06,1.0
+B001452,violation,restricted_substances_free,R06,1.0
+B001453,violation,restricted_substances_free,R06,1.0
+B001454,violation,restricted_substances_free,R06,1.0
+B001456,violation,restricted_substances_free,R06,1.0
+B001461,violation,restricted_substances_free,R06,1.0
+B001462,violation,restricted_substances_free,R06,1.0
+B001468,violation,restricted_substances_free,R06,1.0
+B001471,violation,restricted_substances_free,R06,1.0
+B001477,violation,restricted_substances_free,R06,1.0
+B001482,violation,restricted_substances_free,R06,1.0
+B001487,violation,restricted_substances_free,R06,1.0
+B001490,violation,restricted_substances_free,R06,1.0
+B001491,violation,restricted_substances_free,R06,1.0
+B001492,violation,restricted_substances_free,R06,1.0
+B001497,violation,restricted_substances_free,R06,1.0
+B001498,violation,restricted_substances_free,R06,1.0
+B001499,violation,restricted_substances_free,R06,1.0
+B001501,violation,restricted_substances_free,R06,1.0
+B001503,violation,restricted_substances_free,R06,1.0
+B001505,violation,restricted_substances_free,R06,1.0
+B001510,violation,restricted_substances_free,R06,1.0
+B001517,violation,restricted_substances_free,R06,1.0
+B001519,violation,recycled_content,R06,1.0
+B001522,violation,restricted_substances_free,R06,1.0
+B001523,violation,restricted_substances_free,R06,1.0
+B001525,violation,restricted_substances_free,R06,1.0
+B001529,violation,restricted_substances_free,R06,1.0
+B001534,violation,restricted_substances_free,R06,1.0
+B001535,violation,restricted_substances_free,R06,1.0
+B001539,violation,restricted_substances_free,R06,1.0
+B001540,violation,restricted_substances_free,R06,1.0
+B001543,violation,restricted_substances_free,R06,1.0
+B001546,violation,restricted_substances_free,R06,1.0
+B001550,violation,restricted_substances_free,R06,1.0
+B001558,violation,restricted_substances_free,R06,1.0
+B001559,violation,restricted_substances_free,R06,1.0
+B001561,violation,restricted_substances_free,R06,1.0
+B001563,violation,restricted_substances_free,R06,1.0
+B001565,violation,restricted_substances_free,R06,1.0
+B001567,violation,restricted_substances_free,R06,1.0
+B001571,violation,recycled_content,R06,1.0
+B001573,violation,restricted_substances_free,R06,1.0
+B001575,violation,restricted_substances_free,R06,1.0
+B001576,violation,restricted_substances_free,R06,1.0
+B001580,violation,restricted_substances_free,R06,1.0
+B001581,violation,restricted_substances_free,R06,1.0
+B001582,violation,restricted_substances_free,R06,1.0
+B001584,violation,restricted_substances_free,R06,1.0
+B001589,violation,restricted_substances_free,R06,1.0
+B001590,violation,restricted_substances_free,R06,1.0
+B001593,violation,restricted_substances_free,R06,1.0
+B001595,violation,restricted_substances_free,R06,1.0
+B001596,violation,restricted_substances_free,R06,1.0
+B001598,violation,restricted_substances_free,R06,1.0
+B001600,violation,restricted_substances_free,R06,1.0
+B001601,violation,restricted_substances_free,R06,1.0
+B001608,violation,restricted_substances_free,R06,1.0
+B001612,violation,restricted_substances_free,R06,1.0
+B001614,violation,restricted_substances_free,R06,1.0
+B001616,violation,restricted_substances_free,R06,1.0
+B001617,violation,restricted_substances_free,R06,1.0
+B001622,violation,restricted_substances_free,R06,1.0
+B001623,violation,restricted_substances_free,R06,1.0
+B001625,violation,restricted_substances_free,R06,1.0
+B001628,violation,restricted_substances_free,R06,1.0
+B001630,violation,restricted_substances_free,R06,1.0
+B001631,violation,restricted_substances_free,R06,1.0
+B001632,violation,restricted_substances_free,R06,1.0
+B001636,violation,restricted_substances_free,R06,1.0
+B001637,violation,restricted_substances_free,R06,1.0
+B001643,violation,restricted_substances_free,R06,1.0
+B001644,violation,restricted_substances_free,R06,1.0
+B001645,violation,restricted_substances_free,R06,1.0
+B001646,violation,restricted_substances_free,R06,1.0
+B001648,violation,restricted_substances_free,R06,1.0
+B001655,violation,recycled_content,R06,1.0
+B001662,violation,restricted_substances_free,R06,1.0
+B001669,violation,restricted_substances_free,R06,1.0
+B001671,violation,restricted_substances_free,R06,1.0
+B001672,violation,restricted_substances_free,R06,1.0
+B001686,violation,restricted_substances_free,R06,1.0
+B001688,violation,restricted_substances_free,R06,1.0
+B001691,violation,restricted_substances_free,R06,1.0
+B001693,violation,recycled_content,R06,1.0
+B001694,violation,restricted_substances_free,R06,1.0
+B001695,violation,restricted_substances_free,R06,1.0
+B001699,violation,restricted_substances_free,R06,1.0
+B001700,violation,restricted_substances_free,R06,1.0
+B001702,violation,restricted_substances_free,R06,1.0
+B001704,violation,restricted_substances_free,R06,1.0
+B001705,violation,restricted_substances_free,R06,1.0
+B001706,violation,restricted_substances_free,R06,1.0
+B001714,violation,restricted_substances_free,R06,1.0
+B001717,violation,restricted_substances_free,R06,1.0
+B001718,violation,organic,R06,1.0
+B001720,violation,restricted_substances_free,R06,1.0
+B001723,violation,restricted_substances_free,R06,1.0
+B001724,violation,restricted_substances_free,R06,1.0
+B001725,violation,restricted_substances_free,R06,1.0
+B001726,violation,restricted_substances_free,R06,1.0
+B001730,violation,restricted_substances_free,R06,1.0
+B001735,violation,restricted_substances_free,R06,1.0
+B001736,violation,restricted_substances_free,R06,1.0
+B001738,violation,restricted_substances_free,R06,1.0
+B001739,violation,restricted_substances_free,R06,1.0
+B001744,violation,restricted_substances_free,R06,1.0
+B001750,violation,restricted_substances_free,R06,1.0
+B001752,violation,restricted_substances_free,R06,1.0
+B001755,violation,restricted_substances_free,R06,1.0
+B001756,violation,restricted_substances_free,R06,1.0
+B001757,violation,restricted_substances_free,R06,1.0
+B001760,violation,restricted_substances_free,R06,1.0
+B001761,violation,restricted_substances_free,R06,1.0
+B001764,violation,restricted_substances_free,R06,1.0
+B001769,violation,restricted_substances_free,R06,1.0
+B001776,violation,restricted_substances_free,R06,1.0
+B001777,violation,restricted_substances_free,R06,1.0
+B001778,violation,restricted_substances_free,R06,1.0
+B001779,violation,restricted_substances_free,R06,1.0
+B001780,violation,recycled_content,R06,1.0
+B001782,violation,restricted_substances_free,R06,1.0
+B001786,violation,restricted_substances_free,R06,1.0
+B001791,violation,organic,R06,1.0
+B001797,violation,restricted_substances_free,R06,1.0
+B001802,violation,restricted_substances_free,R06,1.0
+B001803,violation,restricted_substances_free,R06,1.0
+B001809,violation,restricted_substances_free,R06,1.0
+B001813,violation,restricted_substances_free,R06,1.0
+B001814,violation,restricted_substances_free,R06,1.0
+B001815,violation,restricted_substances_free,R06,1.0
+B001818,violation,restricted_substances_free,R06,1.0
+B001819,violation,restricted_substances_free,R06,1.0
+B001821,violation,restricted_substances_free,R06,1.0
+B001827,violation,recycled_content,R06,1.0
+B001831,violation,restricted_substances_free,R06,1.0
+B001832,violation,restricted_substances_free,R06,1.0
+B001835,violation,restricted_substances_free,R06,1.0
+B001838,violation,restricted_substances_free,R06,1.0
+B001839,violation,restricted_substances_free,R06,1.0
+B001842,violation,restricted_substances_free,R06,1.0
+B001846,violation,restricted_substances_free,R06,1.0
+B001847,violation,restricted_substances_free,R06,1.0
+B001848,violation,restricted_substances_free,R06,1.0
+B001856,violation,restricted_substances_free,R06,1.0
+B001859,violation,restricted_substances_free,R06,1.0
+B001861,violation,restricted_substances_free,R06,1.0
+B001868,violation,restricted_substances_free,R06,1.0
+B001874,violation,restricted_substances_free,R06,1.0
+B001878,violation,restricted_substances_free,R06,1.0
+B001881,violation,restricted_substances_free,R06,1.0
+B001887,violation,restricted_substances_free,R06,1.0
+B001889,violation,restricted_substances_free,R06,1.0
+B001890,violation,restricted_substances_free,R06,1.0
+B001891,violation,restricted_substances_free,R06,1.0
+B001892,violation,restricted_substances_free,R06,1.0
+B001893,violation,restricted_substances_free,R06,1.0
+B001894,violation,restricted_substances_free,R06,1.0
+B001899,violation,restricted_substances_free,R06,1.0
+B001900,violation,restricted_substances_free,R06,1.0
+B001903,violation,organic,R06,1.0
+B001906,violation,restricted_substances_free,R06,1.0
+B001908,violation,restricted_substances_free,R06,1.0
+B001909,violation,restricted_substances_free,R06,1.0
+B001910,violation,restricted_substances_free,R06,1.0
+B001912,violation,restricted_substances_free,R06,1.0
+B001914,violation,restricted_substances_free,R06,1.0
+B001919,violation,restricted_substances_free,R06,1.0
+B001920,violation,restricted_substances_free,R06,1.0
+B001927,violation,restricted_substances_free,R06,1.0
+B001930,violation,recycled_content,R06,1.0
+B001931,violation,restricted_substances_free,R06,1.0
+B001933,violation,restricted_substances_free,R06,1.0
+B001934,violation,restricted_substances_free,R06,1.0
+B001936,violation,restricted_substances_free,R06,1.0
+B001938,violation,restricted_substances_free,R06,1.0
+B001941,violation,restricted_substances_free,R06,1.0
+B001943,violation,restricted_substances_free,R06,1.0
+B001945,violation,restricted_substances_free,R06,1.0
+B001948,violation,restricted_substances_free,R06,1.0
+B001950,violation,restricted_substances_free,R06,1.0
+B001951,violation,restricted_substances_free,R06,1.0
+B001953,violation,restricted_substances_free,R06,1.0
+B001956,violation,restricted_substances_free,R06,1.0
+B001957,violation,restricted_substances_free,R06,1.0
+B001959,violation,restricted_substances_free,R06,1.0
+B001961,violation,restricted_substances_free,R06,1.0
+B001965,violation,recycled_content,R06,1.0
+B001967,violation,restricted_substances_free,R06,1.0
+B001968,violation,restricted_substances_free,R06,1.0
+B001969,violation,restricted_substances_free,R06,1.0
+B001970,violation,restricted_substances_free,R06,1.0
+B001971,violation,restricted_substances_free,R06,1.0
+B001973,violation,restricted_substances_free,R06,1.0
+B001975,violation,restricted_substances_free,R06,1.0
+B001976,violation,restricted_substances_free,R06,1.0
+B001980,violation,restricted_substances_free,R06,1.0
+B001986,violation,restricted_substances_free,R06,1.0
+B001990,violation,restricted_substances_free,R06,1.0
+B001991,violation,restricted_substances_free,R06,1.0
+B001993,violation,restricted_substances_free,R06,1.0
+B001995,violation,restricted_substances_free,R06,1.0
+B001999,violation,restricted_substances_free,R06,1.0
+B000008,violation,upstream event missing,R07,1.0
+B000012,violation,upstream event missing,R07,1.0
+B000030,violation,upstream event missing,R07,1.0
+B000118,violation,upstream event missing,R07,1.0
+B000135,violation,upstream event missing,R07,1.0
+B000140,violation,upstream event missing,R07,1.0
+B000151,violation,upstream event missing,R07,1.0
+B000159,violation,upstream event missing,R07,1.0
+B000182,violation,upstream event missing,R07,1.0
+B000212,violation,upstream event missing,R07,1.0
+B000266,violation,upstream event missing,R07,1.0
+B000278,violation,upstream event missing,R07,1.0
+B000320,violation,upstream event missing,R07,1.0
+B000345,violation,upstream event missing,R07,1.0
+B000350,violation,upstream event missing,R07,1.0
+B000405,violation,upstream event missing,R07,1.0
+B000443,violation,upstream event missing,R07,1.0
+B000482,violation,upstream event missing,R07,1.0
+B000529,violation,upstream event missing,R07,1.0
+B000531,violation,upstream event missing,R07,1.0
+B000562,violation,upstream event missing,R07,1.0
+B000585,violation,upstream event missing,R07,1.0
+B000641,violation,upstream event missing,R07,1.0
+B000681,violation,upstream event missing,R07,1.0
+B000705,violation,upstream event missing,R07,1.0
+B000713,violation,upstream event missing,R07,1.0
+B000738,violation,upstream event missing,R07,1.0
+B000741,violation,upstream event missing,R07,1.0
+B000759,violation,upstream event missing,R07,1.0
+B000760,violation,upstream event missing,R07,1.0
+B000768,violation,upstream event missing,R07,1.0
+B000792,violation,upstream event missing,R07,1.0
+B000796,violation,upstream event missing,R07,1.0
+B000871,violation,upstream event missing,R07,1.0
+B000879,violation,upstream event missing,R07,1.0
+B000904,violation,upstream event missing,R07,1.0
+B000934,violation,upstream event missing,R07,1.0
+B000935,violation,upstream event missing,R07,1.0
+B000957,violation,upstream event missing,R07,1.0
+B000973,violation,upstream event missing,R07,1.0
+B001006,violation,upstream event missing,R07,1.0
+B001013,violation,upstream event missing,R07,1.0
+B001014,violation,upstream event missing,R07,1.0
+B001024,violation,upstream event missing,R07,1.0
+B001038,violation,upstream event missing,R07,1.0
+B001046,violation,upstream event missing,R07,1.0
+B001048,violation,upstream event missing,R07,1.0
+B001050,violation,upstream event missing,R07,1.0
+B001125,violation,upstream event missing,R07,1.0
+B001207,violation,upstream event missing,R07,1.0
+B001218,violation,upstream event missing,R07,1.0
+B001221,violation,upstream event missing,R07,1.0
+B001232,violation,upstream event missing,R07,1.0
+B001233,violation,upstream event missing,R07,1.0
+B001370,violation,upstream event missing,R07,1.0
+B001457,violation,upstream event missing,R07,1.0
+B001480,violation,upstream event missing,R07,1.0
+B001508,violation,upstream event missing,R07,1.0
+B001513,violation,upstream event missing,R07,1.0
+B001532,violation,upstream event missing,R07,1.0
+B001572,violation,upstream event missing,R07,1.0
+B001682,violation,upstream event missing,R07,1.0
+B001720,violation,upstream event missing,R07,1.0
+B001803,violation,upstream event missing,R07,1.0
+B001807,violation,upstream event missing,R07,1.0
+B001929,violation,upstream event missing,R07,1.0
+B001932,violation,upstream event missing,R07,1.0
+B001963,violation,upstream event missing,R07,1.0
+B000009,violation,exceedance,R08,1.0
+B000037,violation,exceedance,R08,1.0
+B000047,violation,exceedance,R08,1.0
+B000079,violation,exceedance,R08,1.0
+B000081,violation,exceedance,R08,1.0
+B000098,violation,exceedance,R08,1.0
+B000108,violation,exceedance,R08,1.0
+B000124,violation,exceedance,R08,1.0
+B000126,violation,exceedance,R08,1.0
+B000139,violation,exceedance,R08,1.0
+B000143,violation,exceedance,R08,1.0
+B000148,violation,exceedance,R08,1.0
+B000205,violation,exceedance,R08,1.0
+B000232,violation,exceedance,R08,1.0
+B000255,violation,exceedance,R08,1.0
+B000270,violation,exceedance,R08,1.0
+B000290,violation,exceedance,R08,1.0
+B000295,violation,exceedance,R08,1.0
+B000317,violation,exceedance,R08,1.0
+B000339,violation,exceedance,R08,1.0
+B000364,violation,exceedance,R08,1.0
+B000370,violation,exceedance,R08,1.0
+B000407,violation,exceedance,R08,1.0
+B000444,violation,exceedance,R08,1.0
+B000482,violation,exceedance,R08,1.0
+B000512,violation,exceedance,R08,1.0
+B000538,violation,exceedance,R08,1.0
+B000552,violation,exceedance,R08,1.0
+B000563,violation,exceedance,R08,1.0
+B000582,violation,exceedance,R08,1.0
+B000593,violation,exceedance,R08,1.0
+B000596,violation,exceedance,R08,1.0
+B000653,violation,exceedance,R08,1.0
+B000674,violation,exceedance,R08,1.0
+B000684,violation,exceedance,R08,1.0
+B000712,violation,exceedance,R08,1.0
+B000715,violation,exceedance,R08,1.0
+B000739,violation,exceedance,R08,1.0
+B000759,violation,exceedance,R08,1.0
+B000770,violation,exceedance,R08,1.0
+B000793,violation,exceedance,R08,1.0
+B000815,violation,exceedance,R08,1.0
+B000833,violation,exceedance,R08,1.0
+B000869,violation,exceedance,R08,1.0
+B000889,violation,exceedance,R08,1.0
+B000934,violation,exceedance,R08,1.0
+B000967,violation,exceedance,R08,1.0
+B000981,violation,exceedance,R08,1.0
+B000988,violation,exceedance,R08,1.0
+B000993,violation,exceedance,R08,1.0
+B001020,violation,exceedance,R08,1.0
+B001042,violation,exceedance,R08,1.0
+B001064,violation,exceedance,R08,1.0
+B001066,violation,exceedance,R08,1.0
+B001098,violation,exceedance,R08,1.0
+B001107,violation,exceedance,R08,1.0
+B001111,violation,exceedance,R08,1.0
+B001146,violation,exceedance,R08,1.0
+B001150,violation,exceedance,R08,1.0
+B001172,violation,exceedance,R08,1.0
+B001180,violation,exceedance,R08,1.0
+B001277,violation,exceedance,R08,1.0
+B001302,violation,exceedance,R08,1.0
+B001309,violation,exceedance,R08,1.0
+B001357,violation,exceedance,R08,1.0
+B001388,violation,exceedance,R08,1.0
+B001426,violation,exceedance,R08,1.0
+B001429,violation,exceedance,R08,1.0
+B001441,violation,exceedance,R08,1.0
+B001466,violation,exceedance,R08,1.0
+B001488,violation,exceedance,R08,1.0
+B001500,violation,exceedance,R08,1.0
+B001526,violation,exceedance,R08,1.0
+B001533,violation,exceedance,R08,1.0
+B001564,violation,exceedance,R08,1.0
+B001583,violation,exceedance,R08,1.0
+B001627,violation,exceedance,R08,1.0
+B001634,violation,exceedance,R08,1.0
+B001639,violation,exceedance,R08,1.0
+B001652,violation,exceedance,R08,1.0
+B001682,violation,exceedance,R08,1.0
+B001753,violation,exceedance,R08,1.0
+B001851,violation,exceedance,R08,1.0
+B001876,violation,exceedance,R08,1.0
+B001895,violation,exceedance,R08,1.0
+B001922,violation,exceedance,R08,1.0
+B001966,violation,exceedance,R08,1.0
+B002000,violation,exceedance,R08,1.0
+B000009,violation,exceedance,R09,1.0
+B000047,violation,exceedance,R09,1.0
+B000079,violation,exceedance,R09,1.0
+B000098,violation,exceedance,R09,1.0
+B000126,violation,exceedance,R09,1.0
+B000139,violation,exceedance,R09,1.0
+B000143,violation,exceedance,R09,1.0
+B000148,violation,exceedance,R09,1.0
+B000205,violation,exceedance,R09,1.0
+B000232,violation,exceedance,R09,1.0
+B000255,violation,exceedance,R09,1.0
+B000270,violation,exceedance,R09,1.0
+B000317,violation,exceedance,R09,1.0
+B000339,violation,exceedance,R09,1.0
+B000364,violation,exceedance,R09,1.0
+B000370,violation,exceedance,R09,1.0
+B000482,violation,exceedance,R09,1.0
+B000512,violation,exceedance,R09,1.0
+B000563,violation,exceedance,R09,1.0
+B000593,violation,exceedance,R09,1.0
+B000684,violation,exceedance,R09,1.0
+B000712,violation,exceedance,R09,1.0
+B000715,violation,exceedance,R09,1.0
+B000770,violation,exceedance,R09,1.0
+B000869,violation,exceedance,R09,1.0
+B001020,violation,exceedance,R09,1.0
+B001042,violation,exceedance,R09,1.0
+B001064,violation,exceedance,R09,1.0
+B001098,violation,exceedance,R09,1.0
+B001107,violation,exceedance,R09,1.0
+B001111,violation,exceedance,R09,1.0
+B001172,violation,exceedance,R09,1.0
+B001180,violation,exceedance,R09,1.0
+B001309,violation,exceedance,R09,1.0
+B001388,violation,exceedance,R09,1.0
+B001426,violation,exceedance,R09,1.0
+B001429,violation,exceedance,R09,1.0
+B001466,violation,exceedance,R09,1.0
+B001500,violation,exceedance,R09,1.0
+B001533,violation,exceedance,R09,1.0
+B001583,violation,exceedance,R09,1.0
+B001627,violation,exceedance,R09,1.0
+B001753,violation,exceedance,R09,1.0
+B002000,violation,exceedance,R09,1.0
+B000005,unverifiable,no test report,R09,1.0
+B000006,unverifiable,no test report,R09,1.0
+B000010,unverifiable,no test report,R09,1.0
+B000013,unverifiable,no test report,R09,1.0
+B000015,unverifiable,no test report,R09,1.0
+B000019,unverifiable,no test report,R09,1.0
+B000022,unverifiable,no test report,R09,1.0
+B000023,unverifiable,no test report,R09,1.0
+B000025,unverifiable,no test report,R09,1.0
+B000031,unverifiable,no test report,R09,1.0
+B000033,unverifiable,no test report,R09,1.0
+B000034,unverifiable,no test report,R09,1.0
+B000044,unverifiable,no test report,R09,1.0
+B000045,unverifiable,no test report,R09,1.0
+B000050,unverifiable,no test report,R09,1.0
+B000052,unverifiable,no test report,R09,1.0
+B000054,unverifiable,no test report,R09,1.0
+B000055,unverifiable,no test report,R09,1.0
+B000058,unverifiable,no test report,R09,1.0
+B000059,unverifiable,no test report,R09,1.0
+B000068,unverifiable,no test report,R09,1.0
+B000070,unverifiable,no test report,R09,1.0
+B000072,unverifiable,no test report,R09,1.0
+B000083,unverifiable,no test report,R09,1.0
+B000091,unverifiable,no test report,R09,1.0
+B000094,unverifiable,no test report,R09,1.0
+B000095,unverifiable,no test report,R09,1.0
+B000100,unverifiable,no test report,R09,1.0
+B000103,unverifiable,no test report,R09,1.0
+B000107,unverifiable,no test report,R09,1.0
+B000110,unverifiable,no test report,R09,1.0
+B000111,unverifiable,no test report,R09,1.0
+B000115,unverifiable,no test report,R09,1.0
+B000117,unverifiable,no test report,R09,1.0
+B000121,unverifiable,no test report,R09,1.0
+B000125,unverifiable,no test report,R09,1.0
+B000127,unverifiable,no test report,R09,1.0
+B000128,unverifiable,no test report,R09,1.0
+B000131,unverifiable,no test report,R09,1.0
+B000134,unverifiable,no test report,R09,1.0
+B000140,unverifiable,no test report,R09,1.0
+B000142,unverifiable,no test report,R09,1.0
+B000150,unverifiable,no test report,R09,1.0
+B000151,unverifiable,no test report,R09,1.0
+B000152,unverifiable,no test report,R09,1.0
+B000154,unverifiable,no test report,R09,1.0
+B000156,unverifiable,no test report,R09,1.0
+B000160,unverifiable,no test report,R09,1.0
+B000165,unverifiable,no test report,R09,1.0
+B000168,unverifiable,no test report,R09,1.0
+B000169,unverifiable,no test report,R09,1.0
+B000170,unverifiable,no test report,R09,1.0
+B000175,unverifiable,no test report,R09,1.0
+B000176,unverifiable,no test report,R09,1.0
+B000180,unverifiable,no test report,R09,1.0
+B000181,unverifiable,no test report,R09,1.0
+B000183,unverifiable,no test report,R09,1.0
+B000185,unverifiable,no test report,R09,1.0
+B000192,unverifiable,no test report,R09,1.0
+B000197,unverifiable,no test report,R09,1.0
+B000200,unverifiable,no test report,R09,1.0
+B000204,unverifiable,no test report,R09,1.0
+B000207,unverifiable,no test report,R09,1.0
+B000212,unverifiable,no test report,R09,1.0
+B000213,unverifiable,no test report,R09,1.0
+B000219,unverifiable,no test report,R09,1.0
+B000220,unverifiable,no test report,R09,1.0
+B000222,unverifiable,no test report,R09,1.0
+B000226,unverifiable,no test report,R09,1.0
+B000234,unverifiable,no test report,R09,1.0
+B000236,unverifiable,no test report,R09,1.0
+B000237,unverifiable,no test report,R09,1.0
+B000238,unverifiable,no test report,R09,1.0
+B000239,unverifiable,no test report,R09,1.0
+B000240,unverifiable,no test report,R09,1.0
+B000248,unverifiable,no test report,R09,1.0
+B000251,unverifiable,no test report,R09,1.0
+B000252,unverifiable,no test report,R09,1.0
+B000258,unverifiable,no test report,R09,1.0
+B000262,unverifiable,no test report,R09,1.0
+B000263,unverifiable,no test report,R09,1.0
+B000269,unverifiable,no test report,R09,1.0
+B000274,unverifiable,no test report,R09,1.0
+B000276,unverifiable,no test report,R09,1.0
+B000278,unverifiable,no test report,R09,1.0
+B000279,unverifiable,no test report,R09,1.0
+B000285,unverifiable,no test report,R09,1.0
+B000286,unverifiable,no test report,R09,1.0
+B000287,unverifiable,no test report,R09,1.0
+B000296,unverifiable,no test report,R09,1.0
+B000305,unverifiable,no test report,R09,1.0
+B000309,unverifiable,no test report,R09,1.0
+B000315,unverifiable,no test report,R09,1.0
+B000316,unverifiable,no test report,R09,1.0
+B000318,unverifiable,no test report,R09,1.0
+B000323,unverifiable,no test report,R09,1.0
+B000324,unverifiable,no test report,R09,1.0
+B000325,unverifiable,no test report,R09,1.0
+B000327,unverifiable,no test report,R09,1.0
+B000330,unverifiable,no test report,R09,1.0
+B000332,unverifiable,no test report,R09,1.0
+B000338,unverifiable,no test report,R09,1.0
+B000340,unverifiable,no test report,R09,1.0
+B000347,unverifiable,no test report,R09,1.0
+B000348,unverifiable,no test report,R09,1.0
+B000349,unverifiable,no test report,R09,1.0
+B000352,unverifiable,no test report,R09,1.0
+B000353,unverifiable,no test report,R09,1.0
+B000356,unverifiable,no test report,R09,1.0
+B000359,unverifiable,no test report,R09,1.0
+B000361,unverifiable,no test report,R09,1.0
+B000362,unverifiable,no test report,R09,1.0
+B000363,unverifiable,no test report,R09,1.0
+B000369,unverifiable,no test report,R09,1.0
+B000379,unverifiable,no test report,R09,1.0
+B000383,unverifiable,no test report,R09,1.0
+B000384,unverifiable,no test report,R09,1.0
+B000387,unverifiable,no test report,R09,1.0
+B000388,unverifiable,no test report,R09,1.0
+B000392,unverifiable,no test report,R09,1.0
+B000397,unverifiable,no test report,R09,1.0
+B000398,unverifiable,no test report,R09,1.0
+B000401,unverifiable,no test report,R09,1.0
+B000405,unverifiable,no test report,R09,1.0
+B000412,unverifiable,no test report,R09,1.0
+B000415,unverifiable,no test report,R09,1.0
+B000416,unverifiable,no test report,R09,1.0
+B000417,unverifiable,no test report,R09,1.0
+B000418,unverifiable,no test report,R09,1.0
+B000419,unverifiable,no test report,R09,1.0
+B000421,unverifiable,no test report,R09,1.0
+B000424,unverifiable,no test report,R09,1.0
+B000426,unverifiable,no test report,R09,1.0
+B000428,unverifiable,no test report,R09,1.0
+B000430,unverifiable,no test report,R09,1.0
+B000433,unverifiable,no test report,R09,1.0
+B000434,unverifiable,no test report,R09,1.0
+B000438,unverifiable,no test report,R09,1.0
+B000441,unverifiable,no test report,R09,1.0
+B000446,unverifiable,no test report,R09,1.0
+B000448,unverifiable,no test report,R09,1.0
+B000449,unverifiable,no test report,R09,1.0
+B000455,unverifiable,no test report,R09,1.0
+B000456,unverifiable,no test report,R09,1.0
+B000458,unverifiable,no test report,R09,1.0
+B000461,unverifiable,no test report,R09,1.0
+B000463,unverifiable,no test report,R09,1.0
+B000468,unverifiable,no test report,R09,1.0
+B000473,unverifiable,no test report,R09,1.0
+B000478,unverifiable,no test report,R09,1.0
+B000484,unverifiable,no test report,R09,1.0
+B000485,unverifiable,no test report,R09,1.0
+B000486,unverifiable,no test report,R09,1.0
+B000494,unverifiable,no test report,R09,1.0
+B000500,unverifiable,no test report,R09,1.0
+B000502,unverifiable,no test report,R09,1.0
+B000507,unverifiable,no test report,R09,1.0
+B000508,unverifiable,no test report,R09,1.0
+B000509,unverifiable,no test report,R09,1.0
+B000510,unverifiable,no test report,R09,1.0
+B000517,unverifiable,no test report,R09,1.0
+B000520,unverifiable,no test report,R09,1.0
+B000521,unverifiable,no test report,R09,1.0
+B000522,unverifiable,no test report,R09,1.0
+B000525,unverifiable,no test report,R09,1.0
+B000533,unverifiable,no test report,R09,1.0
+B000534,unverifiable,no test report,R09,1.0
+B000539,unverifiable,no test report,R09,1.0
+B000548,unverifiable,no test report,R09,1.0
+B000556,unverifiable,no test report,R09,1.0
+B000557,unverifiable,no test report,R09,1.0
+B000558,unverifiable,no test report,R09,1.0
+B000561,unverifiable,no test report,R09,1.0
+B000562,unverifiable,no test report,R09,1.0
+B000568,unverifiable,no test report,R09,1.0
+B000569,unverifiable,no test report,R09,1.0
+B000572,unverifiable,no test report,R09,1.0
+B000574,unverifiable,no test report,R09,1.0
+B000578,unverifiable,no test report,R09,1.0
+B000584,unverifiable,no test report,R09,1.0
+B000585,unverifiable,no test report,R09,1.0
+B000588,unverifiable,no test report,R09,1.0
+B000590,unverifiable,no test report,R09,1.0
+B000595,unverifiable,no test report,R09,1.0
+B000604,unverifiable,no test report,R09,1.0
+B000605,unverifiable,no test report,R09,1.0
+B000606,unverifiable,no test report,R09,1.0
+B000611,unverifiable,no test report,R09,1.0
+B000616,unverifiable,no test report,R09,1.0
+B000619,unverifiable,no test report,R09,1.0
+B000621,unverifiable,no test report,R09,1.0
+B000624,unverifiable,no test report,R09,1.0
+B000628,unverifiable,no test report,R09,1.0
+B000631,unverifiable,no test report,R09,1.0
+B000632,unverifiable,no test report,R09,1.0
+B000635,unverifiable,no test report,R09,1.0
+B000638,unverifiable,no test report,R09,1.0
+B000639,unverifiable,no test report,R09,1.0
+B000640,unverifiable,no test report,R09,1.0
+B000641,unverifiable,no test report,R09,1.0
+B000656,unverifiable,no test report,R09,1.0
+B000659,unverifiable,no test report,R09,1.0
+B000661,unverifiable,no test report,R09,1.0
+B000662,unverifiable,no test report,R09,1.0
+B000668,unverifiable,no test report,R09,1.0
+B000673,unverifiable,no test report,R09,1.0
+B000679,unverifiable,no test report,R09,1.0
+B000681,unverifiable,no test report,R09,1.0
+B000683,unverifiable,no test report,R09,1.0
+B000685,unverifiable,no test report,R09,1.0
+B000686,unverifiable,no test report,R09,1.0
+B000687,unverifiable,no test report,R09,1.0
+B000688,unverifiable,no test report,R09,1.0
+B000689,unverifiable,no test report,R09,1.0
+B000690,unverifiable,no test report,R09,1.0
+B000691,unverifiable,no test report,R09,1.0
+B000693,unverifiable,no test report,R09,1.0
+B000694,unverifiable,no test report,R09,1.0
+B000695,unverifiable,no test report,R09,1.0
+B000698,unverifiable,no test report,R09,1.0
+B000702,unverifiable,no test report,R09,1.0
+B000706,unverifiable,no test report,R09,1.0
+B000708,unverifiable,no test report,R09,1.0
+B000713,unverifiable,no test report,R09,1.0
+B000719,unverifiable,no test report,R09,1.0
+B000721,unverifiable,no test report,R09,1.0
+B000722,unverifiable,no test report,R09,1.0
+B000723,unverifiable,no test report,R09,1.0
+B000726,unverifiable,no test report,R09,1.0
+B000728,unverifiable,no test report,R09,1.0
+B000729,unverifiable,no test report,R09,1.0
+B000730,unverifiable,no test report,R09,1.0
+B000731,unverifiable,no test report,R09,1.0
+B000732,unverifiable,no test report,R09,1.0
+B000734,unverifiable,no test report,R09,1.0
+B000737,unverifiable,no test report,R09,1.0
+B000738,unverifiable,no test report,R09,1.0
+B000744,unverifiable,no test report,R09,1.0
+B000747,unverifiable,no test report,R09,1.0
+B000750,unverifiable,no test report,R09,1.0
+B000751,unverifiable,no test report,R09,1.0
+B000755,unverifiable,no test report,R09,1.0
+B000756,unverifiable,no test report,R09,1.0
+B000763,unverifiable,no test report,R09,1.0
+B000765,unverifiable,no test report,R09,1.0
+B000767,unverifiable,no test report,R09,1.0
+B000768,unverifiable,no test report,R09,1.0
+B000769,unverifiable,no test report,R09,1.0
+B000773,unverifiable,no test report,R09,1.0
+B000776,unverifiable,no test report,R09,1.0
+B000780,unverifiable,no test report,R09,1.0
+B000781,unverifiable,no test report,R09,1.0
+B000786,unverifiable,no test report,R09,1.0
+B000795,unverifiable,no test report,R09,1.0
+B000797,unverifiable,no test report,R09,1.0
+B000802,unverifiable,no test report,R09,1.0
+B000805,unverifiable,no test report,R09,1.0
+B000809,unverifiable,no test report,R09,1.0
+B000813,unverifiable,no test report,R09,1.0
+B000820,unverifiable,no test report,R09,1.0
+B000822,unverifiable,no test report,R09,1.0
+B000823,unverifiable,no test report,R09,1.0
+B000824,unverifiable,no test report,R09,1.0
+B000825,unverifiable,no test report,R09,1.0
+B000827,unverifiable,no test report,R09,1.0
+B000829,unverifiable,no test report,R09,1.0
+B000840,unverifiable,no test report,R09,1.0
+B000849,unverifiable,no test report,R09,1.0
+B000851,unverifiable,no test report,R09,1.0
+B000863,unverifiable,no test report,R09,1.0
+B000871,unverifiable,no test report,R09,1.0
+B000872,unverifiable,no test report,R09,1.0
+B000873,unverifiable,no test report,R09,1.0
+B000878,unverifiable,no test report,R09,1.0
+B000880,unverifiable,no test report,R09,1.0
+B000881,unverifiable,no test report,R09,1.0
+B000885,unverifiable,no test report,R09,1.0
+B000892,unverifiable,no test report,R09,1.0
+B000893,unverifiable,no test report,R09,1.0
+B000895,unverifiable,no test report,R09,1.0
+B000896,unverifiable,no test report,R09,1.0
+B000898,unverifiable,no test report,R09,1.0
+B000899,unverifiable,no test report,R09,1.0
+B000900,unverifiable,no test report,R09,1.0
+B000907,unverifiable,no test report,R09,1.0
+B000909,unverifiable,no test report,R09,1.0
+B000912,unverifiable,no test report,R09,1.0
+B000915,unverifiable,no test report,R09,1.0
+B000916,unverifiable,no test report,R09,1.0
+B000920,unverifiable,no test report,R09,1.0
+B000921,unverifiable,no test report,R09,1.0
+B000923,unverifiable,no test report,R09,1.0
+B000924,unverifiable,no test report,R09,1.0
+B000925,unverifiable,no test report,R09,1.0
+B000928,unverifiable,no test report,R09,1.0
+B000929,unverifiable,no test report,R09,1.0
+B000931,unverifiable,no test report,R09,1.0
+B000933,unverifiable,no test report,R09,1.0
+B000936,unverifiable,no test report,R09,1.0
+B000940,unverifiable,no test report,R09,1.0
+B000941,unverifiable,no test report,R09,1.0
+B000944,unverifiable,no test report,R09,1.0
+B000946,unverifiable,no test report,R09,1.0
+B000948,unverifiable,no test report,R09,1.0
+B000951,unverifiable,no test report,R09,1.0
+B000952,unverifiable,no test report,R09,1.0
+B000953,unverifiable,no test report,R09,1.0
+B000958,unverifiable,no test report,R09,1.0
+B000965,unverifiable,no test report,R09,1.0
+B000969,unverifiable,no test report,R09,1.0
+B000972,unverifiable,no test report,R09,1.0
+B000973,unverifiable,no test report,R09,1.0
+B000974,unverifiable,no test report,R09,1.0
+B000975,unverifiable,no test report,R09,1.0
+B000979,unverifiable,no test report,R09,1.0
+B000982,unverifiable,no test report,R09,1.0
+B000984,unverifiable,no test report,R09,1.0
+B000986,unverifiable,no test report,R09,1.0
+B000992,unverifiable,no test report,R09,1.0
+B000994,unverifiable,no test report,R09,1.0
+B000995,unverifiable,no test report,R09,1.0
+B000996,unverifiable,no test report,R09,1.0
+B000997,unverifiable,no test report,R09,1.0
+B000998,unverifiable,no test report,R09,1.0
+B000999,unverifiable,no test report,R09,1.0
+B001001,unverifiable,no test report,R09,1.0
+B001003,unverifiable,no test report,R09,1.0
+B001007,unverifiable,no test report,R09,1.0
+B001008,unverifiable,no test report,R09,1.0
+B001013,unverifiable,no test report,R09,1.0
+B001014,unverifiable,no test report,R09,1.0
+B001016,unverifiable,no test report,R09,1.0
+B001019,unverifiable,no test report,R09,1.0
+B001028,unverifiable,no test report,R09,1.0
+B001031,unverifiable,no test report,R09,1.0
+B001037,unverifiable,no test report,R09,1.0
+B001038,unverifiable,no test report,R09,1.0
+B001041,unverifiable,no test report,R09,1.0
+B001046,unverifiable,no test report,R09,1.0
+B001047,unverifiable,no test report,R09,1.0
+B001048,unverifiable,no test report,R09,1.0
+B001052,unverifiable,no test report,R09,1.0
+B001053,unverifiable,no test report,R09,1.0
+B001056,unverifiable,no test report,R09,1.0
+B001058,unverifiable,no test report,R09,1.0
+B001060,unverifiable,no test report,R09,1.0
+B001061,unverifiable,no test report,R09,1.0
+B001067,unverifiable,no test report,R09,1.0
+B001069,unverifiable,no test report,R09,1.0
+B001072,unverifiable,no test report,R09,1.0
+B001073,unverifiable,no test report,R09,1.0
+B001074,unverifiable,no test report,R09,1.0
+B001077,unverifiable,no test report,R09,1.0
+B001078,unverifiable,no test report,R09,1.0
+B001085,unverifiable,no test report,R09,1.0
+B001086,unverifiable,no test report,R09,1.0
+B001092,unverifiable,no test report,R09,1.0
+B001095,unverifiable,no test report,R09,1.0
+B001096,unverifiable,no test report,R09,1.0
+B001101,unverifiable,no test report,R09,1.0
+B001105,unverifiable,no test report,R09,1.0
+B001108,unverifiable,no test report,R09,1.0
+B001113,unverifiable,no test report,R09,1.0
+B001114,unverifiable,no test report,R09,1.0
+B001116,unverifiable,no test report,R09,1.0
+B001128,unverifiable,no test report,R09,1.0
+B001129,unverifiable,no test report,R09,1.0
+B001131,unverifiable,no test report,R09,1.0
+B001135,unverifiable,no test report,R09,1.0
+B001140,unverifiable,no test report,R09,1.0
+B001143,unverifiable,no test report,R09,1.0
+B001147,unverifiable,no test report,R09,1.0
+B001148,unverifiable,no test report,R09,1.0
+B001152,unverifiable,no test report,R09,1.0
+B001154,unverifiable,no test report,R09,1.0
+B001156,unverifiable,no test report,R09,1.0
+B001164,unverifiable,no test report,R09,1.0
+B001170,unverifiable,no test report,R09,1.0
+B001171,unverifiable,no test report,R09,1.0
+B001179,unverifiable,no test report,R09,1.0
+B001181,unverifiable,no test report,R09,1.0
+B001182,unverifiable,no test report,R09,1.0
+B001184,unverifiable,no test report,R09,1.0
+B001186,unverifiable,no test report,R09,1.0
+B001187,unverifiable,no test report,R09,1.0
+B001191,unverifiable,no test report,R09,1.0
+B001196,unverifiable,no test report,R09,1.0
+B001197,unverifiable,no test report,R09,1.0
+B001199,unverifiable,no test report,R09,1.0
+B001202,unverifiable,no test report,R09,1.0
+B001203,unverifiable,no test report,R09,1.0
+B001205,unverifiable,no test report,R09,1.0
+B001207,unverifiable,no test report,R09,1.0
+B001209,unverifiable,no test report,R09,1.0
+B001213,unverifiable,no test report,R09,1.0
+B001215,unverifiable,no test report,R09,1.0
+B001216,unverifiable,no test report,R09,1.0
+B001222,unverifiable,no test report,R09,1.0
+B001223,unverifiable,no test report,R09,1.0
+B001225,unverifiable,no test report,R09,1.0
+B001229,unverifiable,no test report,R09,1.0
+B001230,unverifiable,no test report,R09,1.0
+B001234,unverifiable,no test report,R09,1.0
+B001236,unverifiable,no test report,R09,1.0
+B001238,unverifiable,no test report,R09,1.0
+B001241,unverifiable,no test report,R09,1.0
+B001243,unverifiable,no test report,R09,1.0
+B001244,unverifiable,no test report,R09,1.0
+B001245,unverifiable,no test report,R09,1.0
+B001250,unverifiable,no test report,R09,1.0
+B001258,unverifiable,no test report,R09,1.0
+B001259,unverifiable,no test report,R09,1.0
+B001276,unverifiable,no test report,R09,1.0
+B001280,unverifiable,no test report,R09,1.0
+B001281,unverifiable,no test report,R09,1.0
+B001284,unverifiable,no test report,R09,1.0
+B001287,unverifiable,no test report,R09,1.0
+B001290,unverifiable,no test report,R09,1.0
+B001291,unverifiable,no test report,R09,1.0
+B001293,unverifiable,no test report,R09,1.0
+B001294,unverifiable,no test report,R09,1.0
+B001295,unverifiable,no test report,R09,1.0
+B001303,unverifiable,no test report,R09,1.0
+B001305,unverifiable,no test report,R09,1.0
+B001307,unverifiable,no test report,R09,1.0
+B001317,unverifiable,no test report,R09,1.0
+B001318,unverifiable,no test report,R09,1.0
+B001321,unverifiable,no test report,R09,1.0
+B001324,unverifiable,no test report,R09,1.0
+B001328,unverifiable,no test report,R09,1.0
+B001331,unverifiable,no test report,R09,1.0
+B001332,unverifiable,no test report,R09,1.0
+B001339,unverifiable,no test report,R09,1.0
+B001340,unverifiable,no test report,R09,1.0
+B001343,unverifiable,no test report,R09,1.0
+B001346,unverifiable,no test report,R09,1.0
+B001347,unverifiable,no test report,R09,1.0
+B001349,unverifiable,no test report,R09,1.0
+B001350,unverifiable,no test report,R09,1.0
+B001351,unverifiable,no test report,R09,1.0
+B001352,unverifiable,no test report,R09,1.0
+B001354,unverifiable,no test report,R09,1.0
+B001359,unverifiable,no test report,R09,1.0
+B001363,unverifiable,no test report,R09,1.0
+B001366,unverifiable,no test report,R09,1.0
+B001368,unverifiable,no test report,R09,1.0
+B001369,unverifiable,no test report,R09,1.0
+B001372,unverifiable,no test report,R09,1.0
+B001373,unverifiable,no test report,R09,1.0
+B001376,unverifiable,no test report,R09,1.0
+B001382,unverifiable,no test report,R09,1.0
+B001384,unverifiable,no test report,R09,1.0
+B001390,unverifiable,no test report,R09,1.0
+B001393,unverifiable,no test report,R09,1.0
+B001394,unverifiable,no test report,R09,1.0
+B001395,unverifiable,no test report,R09,1.0
+B001396,unverifiable,no test report,R09,1.0
+B001398,unverifiable,no test report,R09,1.0
+B001400,unverifiable,no test report,R09,1.0
+B001401,unverifiable,no test report,R09,1.0
+B001407,unverifiable,no test report,R09,1.0
+B001412,unverifiable,no test report,R09,1.0
+B001413,unverifiable,no test report,R09,1.0
+B001415,unverifiable,no test report,R09,1.0
+B001417,unverifiable,no test report,R09,1.0
+B001418,unverifiable,no test report,R09,1.0
+B001421,unverifiable,no test report,R09,1.0
+B001423,unverifiable,no test report,R09,1.0
+B001425,unverifiable,no test report,R09,1.0
+B001432,unverifiable,no test report,R09,1.0
+B001435,unverifiable,no test report,R09,1.0
+B001437,unverifiable,no test report,R09,1.0
+B001438,unverifiable,no test report,R09,1.0
+B001439,unverifiable,no test report,R09,1.0
+B001448,unverifiable,no test report,R09,1.0
+B001452,unverifiable,no test report,R09,1.0
+B001453,unverifiable,no test report,R09,1.0
+B001454,unverifiable,no test report,R09,1.0
+B001456,unverifiable,no test report,R09,1.0
+B001461,unverifiable,no test report,R09,1.0
+B001462,unverifiable,no test report,R09,1.0
+B001468,unverifiable,no test report,R09,1.0
+B001471,unverifiable,no test report,R09,1.0
+B001477,unverifiable,no test report,R09,1.0
+B001482,unverifiable,no test report,R09,1.0
+B001487,unverifiable,no test report,R09,1.0
+B001490,unverifiable,no test report,R09,1.0
+B001491,unverifiable,no test report,R09,1.0
+B001492,unverifiable,no test report,R09,1.0
+B001497,unverifiable,no test report,R09,1.0
+B001498,unverifiable,no test report,R09,1.0
+B001499,unverifiable,no test report,R09,1.0
+B001501,unverifiable,no test report,R09,1.0
+B001503,unverifiable,no test report,R09,1.0
+B001505,unverifiable,no test report,R09,1.0
+B001510,unverifiable,no test report,R09,1.0
+B001517,unverifiable,no test report,R09,1.0
+B001522,unverifiable,no test report,R09,1.0
+B001523,unverifiable,no test report,R09,1.0
+B001525,unverifiable,no test report,R09,1.0
+B001529,unverifiable,no test report,R09,1.0
+B001534,unverifiable,no test report,R09,1.0
+B001535,unverifiable,no test report,R09,1.0
+B001539,unverifiable,no test report,R09,1.0
+B001540,unverifiable,no test report,R09,1.0
+B001543,unverifiable,no test report,R09,1.0
+B001546,unverifiable,no test report,R09,1.0
+B001550,unverifiable,no test report,R09,1.0
+B001558,unverifiable,no test report,R09,1.0
+B001559,unverifiable,no test report,R09,1.0
+B001561,unverifiable,no test report,R09,1.0
+B001563,unverifiable,no test report,R09,1.0
+B001565,unverifiable,no test report,R09,1.0
+B001567,unverifiable,no test report,R09,1.0
+B001573,unverifiable,no test report,R09,1.0
+B001576,unverifiable,no test report,R09,1.0
+B001581,unverifiable,no test report,R09,1.0
+B001582,unverifiable,no test report,R09,1.0
+B001584,unverifiable,no test report,R09,1.0
+B001589,unverifiable,no test report,R09,1.0
+B001590,unverifiable,no test report,R09,1.0
+B001593,unverifiable,no test report,R09,1.0
+B001595,unverifiable,no test report,R09,1.0
+B001596,unverifiable,no test report,R09,1.0
+B001598,unverifiable,no test report,R09,1.0
+B001600,unverifiable,no test report,R09,1.0
+B001601,unverifiable,no test report,R09,1.0
+B001608,unverifiable,no test report,R09,1.0
+B001612,unverifiable,no test report,R09,1.0
+B001614,unverifiable,no test report,R09,1.0
+B001616,unverifiable,no test report,R09,1.0
+B001617,unverifiable,no test report,R09,1.0
+B001622,unverifiable,no test report,R09,1.0
+B001623,unverifiable,no test report,R09,1.0
+B001625,unverifiable,no test report,R09,1.0
+B001630,unverifiable,no test report,R09,1.0
+B001631,unverifiable,no test report,R09,1.0
+B001632,unverifiable,no test report,R09,1.0
+B001636,unverifiable,no test report,R09,1.0
+B001637,unverifiable,no test report,R09,1.0
+B001643,unverifiable,no test report,R09,1.0
+B001644,unverifiable,no test report,R09,1.0
+B001645,unverifiable,no test report,R09,1.0
+B001646,unverifiable,no test report,R09,1.0
+B001648,unverifiable,no test report,R09,1.0
+B001655,unverifiable,no test report,R09,1.0
+B001662,unverifiable,no test report,R09,1.0
+B001669,unverifiable,no test report,R09,1.0
+B001671,unverifiable,no test report,R09,1.0
+B001672,unverifiable,no test report,R09,1.0
+B001686,unverifiable,no test report,R09,1.0
+B001688,unverifiable,no test report,R09,1.0
+B001691,unverifiable,no test report,R09,1.0
+B001694,unverifiable,no test report,R09,1.0
+B001695,unverifiable,no test report,R09,1.0
+B001699,unverifiable,no test report,R09,1.0
+B001702,unverifiable,no test report,R09,1.0
+B001704,unverifiable,no test report,R09,1.0
+B001705,unverifiable,no test report,R09,1.0
+B001706,unverifiable,no test report,R09,1.0
+B001714,unverifiable,no test report,R09,1.0
+B001717,unverifiable,no test report,R09,1.0
+B001718,unverifiable,no test report,R09,1.0
+B001720,unverifiable,no test report,R09,1.0
+B001723,unverifiable,no test report,R09,1.0
+B001724,unverifiable,no test report,R09,1.0
+B001725,unverifiable,no test report,R09,1.0
+B001726,unverifiable,no test report,R09,1.0
+B001730,unverifiable,no test report,R09,1.0
+B001735,unverifiable,no test report,R09,1.0
+B001736,unverifiable,no test report,R09,1.0
+B001738,unverifiable,no test report,R09,1.0
+B001739,unverifiable,no test report,R09,1.0
+B001744,unverifiable,no test report,R09,1.0
+B001750,unverifiable,no test report,R09,1.0
+B001752,unverifiable,no test report,R09,1.0
+B001755,unverifiable,no test report,R09,1.0
+B001756,unverifiable,no test report,R09,1.0
+B001757,unverifiable,no test report,R09,1.0
+B001760,unverifiable,no test report,R09,1.0
+B001761,unverifiable,no test report,R09,1.0
+B001764,unverifiable,no test report,R09,1.0
+B001769,unverifiable,no test report,R09,1.0
+B001776,unverifiable,no test report,R09,1.0
+B001777,unverifiable,no test report,R09,1.0
+B001778,unverifiable,no test report,R09,1.0
+B001779,unverifiable,no test report,R09,1.0
+B001782,unverifiable,no test report,R09,1.0
+B001786,unverifiable,no test report,R09,1.0
+B001797,unverifiable,no test report,R09,1.0
+B001802,unverifiable,no test report,R09,1.0
+B001803,unverifiable,no test report,R09,1.0
+B001809,unverifiable,no test report,R09,1.0
+B001813,unverifiable,no test report,R09,1.0
+B001814,unverifiable,no test report,R09,1.0
+B001815,unverifiable,no test report,R09,1.0
+B001818,unverifiable,no test report,R09,1.0
+B001819,unverifiable,no test report,R09,1.0
+B001821,unverifiable,no test report,R09,1.0
+B001831,unverifiable,no test report,R09,1.0
+B001832,unverifiable,no test report,R09,1.0
+B001835,unverifiable,no test report,R09,1.0
+B001838,unverifiable,no test report,R09,1.0
+B001839,unverifiable,no test report,R09,1.0
+B001842,unverifiable,no test report,R09,1.0
+B001846,unverifiable,no test report,R09,1.0
+B001847,unverifiable,no test report,R09,1.0
+B001848,unverifiable,no test report,R09,1.0
+B001856,unverifiable,no test report,R09,1.0
+B001859,unverifiable,no test report,R09,1.0
+B001861,unverifiable,no test report,R09,1.0
+B001868,unverifiable,no test report,R09,1.0
+B001874,unverifiable,no test report,R09,1.0
+B001878,unverifiable,no test report,R09,1.0
+B001881,unverifiable,no test report,R09,1.0
+B001887,unverifiable,no test report,R09,1.0
+B001889,unverifiable,no test report,R09,1.0
+B001890,unverifiable,no test report,R09,1.0
+B001891,unverifiable,no test report,R09,1.0
+B001892,unverifiable,no test report,R09,1.0
+B001893,unverifiable,no test report,R09,1.0
+B001894,unverifiable,no test report,R09,1.0
+B001899,unverifiable,no test report,R09,1.0
+B001900,unverifiable,no test report,R09,1.0
+B001906,unverifiable,no test report,R09,1.0
+B001908,unverifiable,no test report,R09,1.0
+B001909,unverifiable,no test report,R09,1.0
+B001910,unverifiable,no test report,R09,1.0
+B001912,unverifiable,no test report,R09,1.0
+B001914,unverifiable,no test report,R09,1.0
+B001919,unverifiable,no test report,R09,1.0
+B001920,unverifiable,no test report,R09,1.0
+B001927,unverifiable,no test report,R09,1.0
+B001930,unverifiable,no test report,R09,1.0
+B001931,unverifiable,no test report,R09,1.0
+B001933,unverifiable,no test report,R09,1.0
+B001934,unverifiable,no test report,R09,1.0
+B001936,unverifiable,no test report,R09,1.0
+B001938,unverifiable,no test report,R09,1.0
+B001941,unverifiable,no test report,R09,1.0
+B001943,unverifiable,no test report,R09,1.0
+B001945,unverifiable,no test report,R09,1.0
+B001948,unverifiable,no test report,R09,1.0
+B001950,unverifiable,no test report,R09,1.0
+B001951,unverifiable,no test report,R09,1.0
+B001953,unverifiable,no test report,R09,1.0
+B001956,unverifiable,no test report,R09,1.0
+B001959,unverifiable,no test report,R09,1.0
+B001961,unverifiable,no test report,R09,1.0
+B001967,unverifiable,no test report,R09,1.0
+B001968,unverifiable,no test report,R09,1.0
+B001969,unverifiable,no test report,R09,1.0
+B001970,unverifiable,no test report,R09,1.0
+B001973,unverifiable,no test report,R09,1.0
+B001975,unverifiable,no test report,R09,1.0
+B001976,unverifiable,no test report,R09,1.0
+B001980,unverifiable,no test report,R09,1.0
+B001986,unverifiable,no test report,R09,1.0
+B001990,unverifiable,no test report,R09,1.0
+B001991,unverifiable,no test report,R09,1.0
+B001993,unverifiable,no test report,R09,1.0
+B001995,unverifiable,no test report,R09,1.0
+B001999,unverifiable,no test report,R09,1.0
+B000182,violation,implausible activity,R10,1.0
+B000232,violation,implausible activity,R10,1.0
+B000291,violation,implausible activity,R10,1.0
+B000302,violation,implausible activity,R10,1.0
+B000330,violation,implausible activity,R10,1.0
+B000410,violation,implausible activity,R10,1.0
+B000527,violation,implausible activity,R10,1.0
+B000618,violation,implausible activity,R10,1.0
+B000823,violation,implausible activity,R10,1.0
+B000904,violation,implausible activity,R10,1.0
+B000917,violation,implausible activity,R10,1.0
+B001196,violation,implausible activity,R10,1.0
+B001411,violation,implausible activity,R10,1.0
+B001545,violation,implausible activity,R10,1.0
+B001557,violation,implausible activity,R10,1.0
+B001558,violation,implausible activity,R10,1.0
+B001820,violation,implausible activity,R10,1.0
+B000012,violation,implausible activity,R10,1.0
+B000479,violation,implausible activity,R10,1.0
+B000516,violation,implausible activity,R10,1.0
+B000605,violation,implausible activity,R10,1.0
+B000619,violation,implausible activity,R10,1.0
+B000798,violation,implausible activity,R10,1.0
+B001049,violation,implausible activity,R10,1.0
+B001434,violation,implausible activity,R10,1.0
+B001524,violation,implausible activity,R10,1.0
+B001561,violation,implausible activity,R10,1.0
+B001732,violation,implausible activity,R10,1.0
+B000054,violation,implausible activity,R10,1.0
+B000217,violation,implausible activity,R10,1.0
+B000311,violation,implausible activity,R10,1.0
+B000406,violation,implausible activity,R10,1.0
+B000614,violation,implausible activity,R10,1.0
+B000735,violation,implausible activity,R10,1.0
+B000920,violation,implausible activity,R10,1.0
+B001011,violation,implausible activity,R10,1.0
+B001239,violation,implausible activity,R10,1.0
+B001298,violation,implausible activity,R10,1.0
+B001457,violation,implausible activity,R10,1.0
+B001655,violation,implausible activity,R10,1.0
+B001703,violation,implausible activity,R10,1.0
+B001835,violation,implausible activity,R10,1.0
+B001921,violation,implausible activity,R10,1.0
+B000296,violation,implausible activity,R10,1.0
+B000565,violation,implausible activity,R10,1.0
+B000694,violation,implausible activity,R10,1.0
+B000759,violation,implausible activity,R10,1.0
+B001031,violation,implausible activity,R10,1.0
+B001079,violation,implausible activity,R10,1.0
+B001123,violation,implausible activity,R10,1.0
+B001293,violation,implausible activity,R10,1.0
+B001491,violation,implausible activity,R10,1.0
+B001596,violation,implausible activity,R10,1.0
+B001627,violation,implausible activity,R10,1.0
+B001880,violation,implausible activity,R10,1.0
+B000227,violation,implausible activity,R10,1.0
+B000292,violation,implausible activity,R10,1.0
+B000466,violation,implausible activity,R10,1.0
+B000675,violation,implausible activity,R10,1.0
+B000700,violation,implausible activity,R10,1.0
+B000981,violation,implausible activity,R10,1.0
+B001262,violation,implausible activity,R10,1.0
+B001371,violation,implausible activity,R10,1.0
+B001783,violation,implausible activity,R10,1.0
+B001963,violation,implausible activity,R10,1.0
+B000033,violation,implausible activity,R10,1.0
+B000348,violation,implausible activity,R10,1.0
+B000458,violation,implausible activity,R10,1.0
+B000642,violation,implausible activity,R10,1.0
+B000808,violation,implausible activity,R10,1.0
+B000888,violation,implausible activity,R10,1.0
+B000933,violation,implausible activity,R10,1.0
+B001280,violation,implausible activity,R10,1.0
+B001510,violation,implausible activity,R10,1.0
+B001576,violation,implausible activity,R10,1.0
+B001819,violation,implausible activity,R10,1.0
+B001844,violation,implausible activity,R10,1.0
+B001926,violation,implausible activity,R10,1.0

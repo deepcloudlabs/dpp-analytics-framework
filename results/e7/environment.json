@@ -1,0 +1,19 @@
+{
+ "python": "3.14.3",
+ "numpy": "2.4.2",
+ "pandas": "3.0.1",
+ "sklearn": "1.8.0",
+ "scipy": "1.17.1",
+ "platform": "Windows-11-10.0.26200-SP0",
+ "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+ "omp_threads": "4",
+ "rounds": 3,
+ "sizes": [
+  1000,
+  2000,
+  5000,
+  10000,
+  20000,
+  50000
+ ]
+}

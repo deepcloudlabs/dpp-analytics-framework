@@ -1,0 +1,11 @@
+cq,question,A,B,C,C_latency_ms_p50
+CQ1,Facilities and countries involved in producing a batch,partial,yes,yes,0.07154999912017956
+CQ2,Value and unit of an indicator,yes,yes,yes,0.03279999509686604
+CQ3,Uncertainty interval and data-quality score of an indicator,no,no,yes,0.03369999467395246
+CQ4,"Observations (source system, time) that contributed to an indicator",no,no,yes,3.643650001322385
+CQ5,"Share of an indicator based on measured, estimated, imputed or default data",no,no,yes,0.8965999877545983
+CQ6,"Calculation rules, factor datasets and model versions used",no,no,yes,4.029299998364877
+CQ7,Passports affected by the revision of an external factor,no,no,yes,59.91020000510616
+CQ8,Validity of claim evidence at the time of the related event,no,yes,yes,1.2212000001454726
+CQ9,Missing upstream lifecycle events (traceability gaps),no,yes,yes,0.025049994292203337
+CQ10,"Observations rejected by screening or replaced by imputation, and the model used",no,no,yes,0.050900001951958984

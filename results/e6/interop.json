@@ -1,0 +1,99 @@
+{
+ "with_extensions": {
+  "documents": 40,
+  "events": 26060,
+  "event_types": {
+   "ObjectEvent": 18096,
+   "TransformationEvent": 7964
+  },
+  "schema_errors": 0,
+  "export_s": 79.84671450003225,
+  "validate_s": 158.41959239999414,
+  "bytes": 24607522,
+  "sensor_reports": 21968,
+  "quantity_recovered": 1.0,
+  "value_exact": 1.0,
+  "data_type_preserved": 1.0,
+  "verification_preserved": 1.0,
+  "source_preserved": 1.0,
+  "matched": 21968
+ },
+ "standard_only": {
+  "documents": 40,
+  "events": 26060,
+  "event_types": {
+   "ObjectEvent": 18096,
+   "TransformationEvent": 7964
+  },
+  "schema_errors": 0,
+  "export_s": 73.4794578999281,
+  "validate_s": 126.99586590006948,
+  "bytes": 17646530,
+  "sensor_reports": 20124,
+  "recovered_quantity_counts": {
+   "chemicals": 10057,
+   "electricity": 5758,
+   "water": 2898,
+   "heat": 1411
+  },
+  "exported_quantity_counts": {
+   "electricity": 5783,
+   "waste_recovered": 4342,
+   "waste": 4334,
+   "wastewater": 1460,
+   "water": 1438,
+   "chemicals": 1437,
+   "heat": 1411
+  },
+  "misclassified_reports": 10136,
+  "misclassified_share": 0.501658005444197,
+  "ambiguous_classes": {
+   "water/wastewater (MTQ)": 1460,
+   "chemicals/waste/waste_recovered (KGM)": 8676
+  },
+  "data_type_preserved": 0.0,
+  "verification_preserved": 0.0,
+  "source_preserved": 0.0,
+  "fibre_primary_data_exported": 0
+ },
+ "passport_jsonld": {
+  "n": 2000,
+  "generation_s": 14.128354500004207,
+  "undefined_terms": [],
+  "record_completeness_mean": 1.0,
+  "bytes_mean": 4621.9495
+ },
+ "ingestion": {
+  "records_mapped": 12950,
+  "records_quarantined": 144,
+  "faults_injected": 144,
+  "quarantine_recall": 1.0,
+  "false_quarantine": 0,
+  "value_exact_1e9": 1.0,
+  "quantity_correct": 1.0,
+  "lot_correct": 1.0,
+  "ingest_s": 0.6169877999927849,
+  "records_per_s": 21222.46177339831,
+  "by_source": {
+   "ERP": 5715,
+   "MES": 5177,
+   "SUPPLIER": 1482,
+   "IOT": 576
+  },
+  "quarantine_reasons": {
+   "missing key": 56,
+   "unparsable value": 51,
+   "unknown unit KGX": 19,
+   "unknown unit kWhh": 7,
+   "unknown unit Whh": 2,
+   "unknown unit MJh": 2,
+   "unknown unit kWhx": 2,
+   "unknown unit MWhh": 1,
+   "unknown unit GJh": 1,
+   "unknown unit m3x": 1,
+   "unknown unit MJx": 1,
+   "unknown unit Lx": 1
+  }
+ },
+ "runtime_s": 644.6447178999952
+}

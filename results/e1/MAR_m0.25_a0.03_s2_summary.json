@@ -1,0 +1,831 @@
+{
+ "tag": "MAR_m0.25_a0.03_s2",
+ "seed": 2,
+ "n": 2000,
+ "missing_rate": 0.25,
+ "mechanism": "MAR",
+ "anomaly_rate": 0.03,
+ "realised_missing_share": 0.344,
+ "t_generate": 1.6242759000015212,
+ "methods": {
+  "M0": {
+   "gwp_per_unit": {
+    "MAPE": 2.9414739667615186,
+    "MdAPE": 0.1850542804854634,
+    "bias": 2.6084151029685767,
+    "p90APE": 0.46942630251054074,
+    "spearman": 0.8527955791988947
+   },
+   "energy_per_unit": {
+    "MAPE": 5.221777953910884,
+    "MdAPE": 0.32202361598558515,
+    "bias": 4.5845738971807215,
+    "p90APE": 0.8001783878100616,
+    "spearman": 0.6729837720788551
+   },
+   "water_per_unit": {
+    "MAPE": 1.1959240680217162,
+    "MdAPE": 0.18114049400480642,
+    "bias": 0.886861942322599,
+    "p90APE": 0.5160086143632284,
+    "spearman": 0.9471686127921531
+   },
+   "aware_per_unit": {
+    "MAPE": 0.8776680908418273,
+    "MdAPE": 0.16605382950681907,
+    "bias": 0.5827509919616475,
+    "p90APE": 0.5322204639430695,
+    "spearman": 0.9668514047128512
+   },
+   "recycled_content": {
+    "MAE_pp": 0.8345549738219895,
+    "bias_pp": 0.4157068062827225,
+    "computable": 0.955
+   },
+   "recycled_content_declared": {
+    "MAE_pp": 1.1463624146196156,
+    "bias_pp": 0.8653033514831595,
+    "computable": 0.982
+   },
+   "timings": {
+    "normalise": 0.08918209999683313,
+    "masses": 0.2842782000079751,
+    "select": 0.10978769999928772,
+    "screen": 0.0005649999948218465,
+    "calibrate": 0.00022399998852051795,
+    "gapfill": 0.20923239999683574,
+    "contributions": 0.8269325000001118,
+    "propagate": 0.3229367000021739,
+    "other_indicators": 4.592132200006745,
+    "total": 6.4371150999941165
+   },
+   "name": "M0 naive aggregation"
+  },
+  "M1": {
+   "gwp_per_unit": {
+    "MAPE": 0.24945700693948344,
+    "MdAPE": 0.19990939350525894,
+    "bias": 0.11359457947197606,
+    "p90APE": 0.5205478010316819,
+    "spearman": 0.8828138252034563,
+    "coverage95": 0.344,
+    "rel_width95": 0.28947684460711637,
+    "rel_interval_score": 3.1414948836033267
+   },
+   "energy_per_unit": {
+    "MAPE": 0.31279664378051314,
+    "MdAPE": 0.25692792251850205,
+    "bias": 0.08103143821613658,
+    "p90APE": 0.639588283538733,
+    "spearman": 0.7170294667573667,
+    "coverage95": 0.202,
+    "rel_width95": 0.2203053481828993,
+    "rel_interval_score": 6.312609956935262
+   },
+   "water_per_unit": {
+    "MAPE": 0.2899385618461074,
+    "MdAPE": 0.2515841151132669,
+    "bias": -0.02256782377618244,
+    "p90APE": 0.5657211639725686,
+    "spearman": 0.957989835997459,
+    "coverage95": 0.3475,
+    "rel_width95": 0.21140305163401107,
+    "rel_interval_score": 4.279938431738073
+   },
+   "aware_per_unit": {
+    "MAPE": 0.29451793336366155,
+    "MdAPE": 0.2514710210421916,
+    "bias": -0.029005159370713948,
+    "p90APE": 0.5800856890693996,
+    "spearman": 0.9721480605370152,
+    "coverage95": 0.294,
+    "rel_width95": 0.18356219818291056,
+    "rel_interval_score": 5.11985677436789
+   },
+   "recycled_content": {
+    "MAE_pp": 0.8345549738219895,
+    "bias_pp": 0.4157068062827225,
+    "computable": 0.955
+   },
+   "recycled_content_declared": {
+    "MAE_pp": 1.1463624146196156,
+    "bias_pp": 0.8653033514831595,
+    "computable": 0.982
+   },
+   "timings": {
+    "normalise": 0.0767548000003444,
+    "masses": 0.3321181999926921,
+    "select": 0.06699520000256598,
+    "screen": 0.00016410001262556762,
+    "calibrate": 0.00014600000577047467,
+    "gapfill": 0.11988450000353623,
+    "contributions": 1.0198679000022821,
+    "propagate": 5.809750000000349,
+    "other_indicators": 4.732186599998386,
+    "total": 12.15903320000507
+   },
+   "name": "M1 secondary data only",
+   "dq": {
+    "rho_dq_ape": -0.1804493596123399,
+    "rho_primary_ape": NaN,
+    "rho_width_ape": 0.10713435728358932
+   },
+   "coverage_diagnostics": {
+    "all": 0.344,
+    "clean": 0.3595080416272469,
+    "fraud": 0.2692307692307692,
+    "unevidenced_re": 0.3258306538049303,
+    "n_clean": 1057
+   }
+  },
+  "M2": {
+   "gwp_per_unit": {
+    "MAPE": 0.16477428114044942,
+    "MdAPE": 0.12338934978159494,
+    "bias": 0.06639457426226335,
+    "p90APE": 0.3537559614904523,
+    "spearman": 0.9383598530899633,
+    "coverage95": 0.417,
+    "rel_width95": 0.1831480546487818,
+    "rel_interval_score": 1.2337823435279054
+   },
+   "energy_per_unit": {
+    "MAPE": 0.2021102149519694,
+    "MdAPE": 0.14412048712900705,
+    "bias": 0.04914120450188447,
+    "p90APE": 0.4396743747153894,
+    "spearman": 0.8753315548328887,
+    "coverage95": 0.2505,
+    "rel_width95": 0.12767088457768003,
+    "rel_interval_score": 3.2099308596459206
+   },
+   "water_per_unit": {
+    "MAPE": 0.2652659815294311,
+    "MdAPE": 0.17710055222811605,
+    "bias": 0.022075915115386334,
+    "p90APE": 0.5548742229675565,
+    "spearman": 0.9555562698890674,
+    "coverage95": 0.459,
+    "rel_width95": 0.20047325514990766,
+    "rel_interval_score": 1.2796145597992488
+   },
+   "aware_per_unit": {
+    "MAPE": 0.2545911611222886,
+    "MdAPE": 0.16463625914242525,
+    "bias": 0.006226346044177031,
+    "p90APE": 0.5476480092696503,
+    "spearman": 0.9745249341312334,
+    "coverage95": 0.4485,
+    "rel_width95": 0.192494609203041,
+    "rel_interval_score": 1.5676271117730596
+   },
+   "recycled_content": {
+    "MAE_pp": 0.8345549738219895,
+    "bias_pp": 0.4157068062827225,
+    "computable": 0.955
+   },
+   "recycled_content_declared": {
+    "MAE_pp": 1.1463624146196156,
+    "bias_pp": 0.8653033514831595,
+    "computable": 0.982
+   },
+   "timings": {
+    "normalise": 0.08440730000438634,
+    "masses": 0.4024911000014981,
+    "select": 0.08994089999760035,
+    "screen": 0.12961509999877308,
+    "calibrate": 0.0002623999898787588,
+    "gapfill": 0.1536805999930948,
+    "contributions": 1.1241221999953268,
+    "propagate": 5.548863100004382,
+    "other_indicators": 4.829918100003852,
+    "total": 12.366609600008815
+   },
+   "name": "M2 primary+default, pedigree (ecoinvent)",
+   "dq": {
+    "rho_dq_ape": 0.1800082665020666,
+    "rho_primary_ape": -0.19590094713706557,
+    "rho_width_ape": 0.06829226007306502
+   },
+   "coverage_diagnostics": {
+    "all": 0.417,
+    "clean": 0.4796594134342479,
+    "fraud": 0.4230769230769231,
+    "unevidenced_re": 0.3440514469453376,
+    "n_clean": 1057
+   }
+  },
+  "M2c": {
+   "gwp_per_unit": {
+    "MAPE": 0.16477428114044942,
+    "MdAPE": 0.12338934978159494,
+    "bias": 0.06639457426226335,
+    "p90APE": 0.3537559614904523,
+    "spearman": 0.9383598530899633,
+    "coverage95": 0.891,
+    "rel_width95": 0.8923304591463306,
+    "rel_interval_score": 1.0093021581141257
+   },
+   "energy_per_unit": {
+    "MAPE": 0.2021102149519694,
+    "MdAPE": 0.14412048712900705,
+    "bias": 0.04914120450188447,
+    "p90APE": 0.4396743747153894,
+    "spearman": 0.8753315548328887,
+    "coverage95": 0.9055,
+    "rel_width95": 1.1102502037185564,
+    "rel_interval_score": 1.1780527346105387
+   },
+   "water_per_unit": {
+    "MAPE": 0.2652659815294311,
+    "MdAPE": 0.17710055222811605,
+    "bias": 0.022075915115386334,
+    "p90APE": 0.5548742229675565,
+    "spearman": 0.9555562698890674,
+    "coverage95": 0.927,
+    "rel_width95": 1.7865730535207482,
+    "rel_interval_score": 1.5307710190989816
+   },
+   "aware_per_unit": {
+    "MAPE": 0.2545911611222886,
+    "MdAPE": 0.16463625914242525,
+    "bias": 0.006226346044177031,
+    "p90APE": 0.5476480092696503,
+    "spearman": 0.9745249341312334,
+    "coverage95": 0.939,
+    "rel_width95": 1.8781955859750725,
+    "rel_interval_score": 1.526614223814869
+   },
+   "recycled_content": {
+    "MAE_pp": 0.8345549738219895,
+    "bias_pp": 0.4157068062827225,
+    "computable": 0.955
+   },
+   "recycled_content_declared": {
+    "MAE_pp": 1.1463624146196156,
+    "bias_pp": 0.8653033514831595,
+    "computable": 0.982
+   },
+   "timings": {
+    "normalise": 0.08097859998815693,
+    "masses": 0.40434320000349544,
+    "select": 0.08808849999331869,
+    "screen": 0.13071129999298137,
+    "calibrate": 0.00016170000890269876,
+    "gapfill": 0.14738029999716673,
+    "contributions": 1.3125609999988228,
+    "propagate": 4.768795600000885,
+    "other_indicators": 5.161716200003866,
+    "total": 12.096290399989812
+   },
+   "name": "M2 primary+default, pedigree (Ciroth)",
+   "dq": {
+    "rho_dq_ape": 0.1800082665020666,
+    "rho_primary_ape": -0.19590094713706557,
+    "rho_width_ape": 0.24979325494831373
+   },
+   "coverage_diagnostics": {
+    "all": 0.891,
+    "clean": 0.9526963103122044,
+    "fraud": 0.8846153846153846,
+    "unevidenced_re": 0.819935691318328,
+    "n_clean": 1057
+   }
+  },
+  "M3": {
+   "gwp_per_unit": {
+    "MAPE": 0.1307965083288218,
+    "MdAPE": 0.09215008727246665,
+    "bias": 0.0662859265236203,
+    "p90APE": 0.29149306876516723,
+    "spearman": 0.9635620313905078,
+    "coverage95": 0.8065,
+    "rel_width95": 0.44491251072618865,
+    "rel_interval_score": 0.501946565735136
+   },
+   "energy_per_unit": {
+    "MAPE": 0.1263737117238151,
+    "MdAPE": 0.0855072355956587,
+    "bias": 0.036047583928802016,
+    "p90APE": 0.2819886695627542,
+    "spearman": 0.9525025166256291,
+    "coverage95": 0.8495,
+    "rel_width95": 0.46636947255695754,
+    "rel_interval_score": 0.5014409102080996
+   },
+   "water_per_unit": {
+    "MAPE": 0.242004873243733,
+    "MdAPE": 0.16080859469549885,
+    "bias": -0.007973840637384016,
+    "p90APE": 0.5300964371317315,
+    "spearman": 0.9591081612770402,
+    "coverage95": 0.912,
+    "rel_width95": 1.2682595828104715,
+    "rel_interval_score": 1.2398611322903799
+   },
+   "aware_per_unit": {
+    "MAPE": 0.24010546618666762,
+    "MdAPE": 0.15543668573746855,
+    "bias": -0.013642886538601648,
+    "p90APE": 0.5307334399122722,
+    "spearman": 0.9757263444315861,
+    "coverage95": 0.9245,
+    "rel_width95": 1.4016508622150474,
+    "rel_interval_score": 1.2626422629852403
+   },
+   "recycled_content": {
+    "MAE_pp": 0.8345549738219895,
+    "bias_pp": 0.4157068062827225,
+    "computable": 0.955
+   },
+   "recycled_content_declared": {
+    "MAE_pp": 1.1463624146196156,
+    "bias_pp": 0.8653033514831595,
+    "computable": 0.982
+   },
+   "timings": {
+    "normalise": 0.1851069000113057,
+    "masses": 0.4370952000026591,
+    "select": 0.10405700000410434,
+    "screen": 175.78448309999658,
+    "calibrate": 0.0649256000033347,
+    "gapfill": 105.73354090000794,
+    "contributions": 1.0681694000086281,
+    "propagate": 5.440506800005096,
+    "other_indicators": 5.2087936000025366,
+    "total": 294.02819910000835
+   },
+   "name": "M3 proposed",
+   "dq": {
+    "rho_dq_ape": 0.2033025328256332,
+    "rho_primary_ape": -0.17762846840039836,
+    "rho_width_ape": 0.28806912751728186
+   },
+   "coverage_diagnostics": {
+    "all": 0.8065,
+    "clean": 0.9157994323557237,
+    "fraud": 0.7692307692307693,
+    "unevidenced_re": 0.6816720257234726,
+    "n_clean": 1057
+   }
+  },
+  "M3-noML": {
+   "gwp_per_unit": {
+    "MAPE": 0.1638447173774496,
+    "MdAPE": 0.12658937158925704,
+    "bias": 0.07146118944115218,
+    "p90APE": 0.3501787319496724,
+    "spearman": 0.9418558844639712,
+    "coverage95": 0.8275,
+    "rel_width95": 0.8645459110227843,
+    "rel_interval_score": 1.0337951532281635
+   },
+   "energy_per_unit": {
+    "MAPE": 0.1968421880955362,
+    "MdAPE": 0.14300650688984878,
+    "bias": 0.05643466837902596,
+    "p90APE": 0.43986074658675983,
+    "spearman": 0.8814617548654387,
+    "coverage95": 0.861,
+    "rel_width95": 1.1567190622940742,
+    "rel_interval_score": 1.242409329058202
+   },
+   "water_per_unit": {
+    "MAPE": 0.2675595041638453,
+    "MdAPE": 0.17724554314592522,
+    "bias": 0.027714004189536668,
+    "p90APE": 0.5602135780604784,
+    "spearman": 0.9555771033942758,
+    "coverage95": 0.9235,
+    "rel_width95": 1.5360507984618899,
+    "rel_interval_score": 1.4676355619264285
+   },
+   "aware_per_unit": {
+    "MAPE": 0.2558381304449827,
+    "MdAPE": 0.1660539566296979,
+    "bias": 0.00963518261563623,
+    "p90APE": 0.5510165225141627,
+    "spearman": 0.9747203751800937,
+    "coverage95": 0.929,
+    "rel_width95": 1.4978584851466987,
+    "rel_interval_score": 1.3742382181040542
+   },
+   "recycled_content": {
+    "MAE_pp": 0.8345549738219895,
+    "bias_pp": 0.4157068062827225,
+    "computable": 0.955
+   },
+   "recycled_content_declared": {
+    "MAE_pp": 1.1463624146196156,
+    "bias_pp": 0.8653033514831595,
+    "computable": 0.982
+   },
+   "timings": {
+    "normalise": 0.1821578000090085,
+    "masses": 0.41895940000540577,
+    "select": 0.09567059999972116,
+    "screen": 130.81684379999933,
+    "calibrate": 0.05491020000772551,
+    "gapfill": 0.37194569999701343,
+    "contributions": 1.1827317000133917,
+    "propagate": 5.0667399000085425,
+    "other_indicators": 4.554515100011486,
+    "total": 142.7458825000067
+   },
+   "name": "M3 without ML imputation",
+   "dq": {
+    "rho_dq_ape": 0.19286595771648943,
+    "rho_primary_ape": -0.21417706068223313,
+    "rho_width_ape": 0.2681962945490736
+   },
+   "coverage_diagnostics": {
+    "all": 0.8275,
+    "clean": 0.9148533585619678,
+    "fraud": 0.8846153846153846,
+    "unevidenced_re": 0.7266881028938906,
+    "n_clean": 1057
+   }
+  },
+  "M3-noscreen": {
+   "gwp_per_unit": {
+    "MAPE": 0.13690653843676784,
+    "MdAPE": 0.09428024578985006,
+    "bias": 0.07246112192275338,
+    "p90APE": 0.3047715522773134,
+    "spearman": 0.9600740655185162,
+    "coverage95": 0.7995,
+    "rel_width95": 0.45832189414807234,
+    "rel_interval_score": 0.5228251464531245
+   },
+   "energy_per_unit": {
+    "MAPE": 0.1402783386248958,
+    "MdAPE": 0.08949807415165523,
+    "bias": 0.04960330429751637,
+    "p90APE": 0.2994690331094635,
+    "spearman": 0.9429597857399464,
+    "coverage95": 0.8435,
+    "rel_width95": 0.48838859633270193,
+    "rel_interval_score": 0.5251927909519576
+   },
+   "water_per_unit": {
+    "MAPE": 0.24315373601905843,
+    "MdAPE": 0.16095096500108746,
+    "bias": -0.007457113000880764,
+    "p90APE": 0.5377261446849445,
+    "spearman": 0.9585591461397865,
+    "coverage95": 0.911,
+    "rel_width95": 1.27634621686098,
+    "rel_interval_score": 1.2342166880161742
+   },
+   "aware_per_unit": {
+    "MAPE": 0.2379896913314131,
+    "MdAPE": 0.1557748268291666,
+    "bias": -0.01591638496313351,
+    "p90APE": 0.5339388334351394,
+    "spearman": 0.9754930148732537,
+    "coverage95": 0.924,
+    "rel_width95": 1.3828453759761472,
+    "rel_interval_score": 1.27399804327872
+   },
+   "recycled_content": {
+    "MAE_pp": 0.8345549738219895,
+    "bias_pp": 0.4157068062827225,
+    "computable": 0.955
+   },
+   "recycled_content_declared": {
+    "MAE_pp": 1.1463624146196156,
+    "bias_pp": 0.8653033514831595,
+    "computable": 0.982
+   },
+   "timings": {
+    "normalise": 0.17538050000439398,
+    "masses": 0.39467930000682827,
+    "select": 0.08673469998757355,
+    "screen": 0.1342022999888286,
+    "calibrate": 0.058442099994863383,
+    "gapfill": 83.08657200000016,
+    "contributions": 0.6158040999871446,
+    "propagate": 3.0602919999946607,
+    "other_indicators": 2.2259043999947608,
+    "total": 89.83981469999708
+   },
+   "name": "M3 without model screening",
+   "dq": {
+    "rho_dq_ape": 0.1933118988279747,
+    "rho_primary_ape": -0.16623579727340312,
+    "rho_width_ape": 0.28398347299586824
+   },
+   "coverage_diagnostics": {
+    "all": 0.7995,
+    "clean": 0.9006622516556292,
+    "fraud": 0.7692307692307693,
+    "unevidenced_re": 0.6838156484458735,
+    "n_clean": 1057
+   }
+  },
+  "M3-nocal": {
+   "gwp_per_unit": {
+    "MAPE": 0.1275345813080522,
+    "MdAPE": 0.08923159188994367,
+    "bias": 0.05766707661240616,
+    "p90APE": 0.2821154413526167,
+    "spearman": 0.9637794384448596,
+    "coverage95": 0.934,
+    "rel_width95": 0.8347772321609936,
+    "rel_interval_score": 0.9432836165930308
+   },
+   "energy_per_unit": {
+    "MAPE": 0.12378353827050412,
+    "MdAPE": 0.08576380276490997,
+    "bias": 0.021311617140039665,
+    "p90APE": 0.2724919162054798,
+    "spearman": 0.9531589767897443,
+    "coverage95": 0.959,
+    "rel_width95": 0.9996321783057555,
+    "rel_interval_score": 1.0452597782757351
+   },
+   "water_per_unit": {
+    "MAPE": 0.23937867409587257,
+    "MdAPE": 0.16081449135149195,
+    "bias": -0.013410221887577796,
+    "p90APE": 0.5274455870951262,
+    "spearman": 0.9596006804001701,
+    "coverage95": 0.9325,
+    "rel_width95": 1.7223752931882945,
+    "rel_interval_score": 1.469703188979518
+   },
+   "aware_per_unit": {
+    "MAPE": 0.23859256387170477,
+    "MdAPE": 0.15484212723909918,
+    "bias": -0.01675730682023523,
+    "p90APE": 0.5279778835270273,
+    "spearman": 0.9758684409671103,
+    "coverage95": 0.9435,
+    "rel_width95": 1.852906724607644,
+    "rel_interval_score": 1.4901201784826736
+   },
+   "recycled_content": {
+    "MAE_pp": 0.8345549738219895,
+    "bias_pp": 0.4157068062827225,
+    "computable": 0.955
+   },
+   "recycled_content_declared": {
+    "MAE_pp": 1.1463624146196156,
+    "bias_pp": 0.8653033514831595,
+    "computable": 0.982
+   },
+   "timings": {
+    "normalise": 0.04566649999469519,
+    "masses": 0.16637219999392983,
+    "select": 0.04894729999068659,
+    "screen": 70.02328979999584,
+    "calibrate": 0.0004574000049615279,
+    "gapfill": 73.962907299996,
+    "contributions": 1.2315251999971224,
+    "propagate": 5.251351800005068,
+    "other_indicators": 5.4489434999995865,
+    "total": 156.18017139998847
+   },
+   "name": "M3 without empirical calibration",
+   "dq": {
+    "rho_dq_ape": 0.1968185712046428,
+    "rho_primary_ape": -0.16591702594552282,
+    "rho_width_ape": 0.20992844098211022
+   },
+   "coverage_diagnostics": {
+    "all": 0.934,
+    "clean": 0.9895931882686849,
+    "fraud": 0.8846153846153846,
+    "unevidenced_re": 0.8703108252947481,
+    "n_clean": 1057
+   }
+  }
+ },
+ "compliance": {
+  "rules": {
+   "R01": {
+    "flagged": {
+     "tp": 199,
+     "fp": 0,
+     "fn": 0,
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "prevalence": 199
+    },
+    "violation_only": {
+     "tp": 199,
+     "fp": 0,
+     "fn": 0,
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "prevalence": 199
+    },
+    "unverifiable": 0,
+    "time_s": 0.0228989999886835
+   },
+   "R02": {
+    "flagged": {
+     "tp": 102,
+     "fp": 82,
+     "fn": 0,
+     "precision": 0.5543478260869565,
+     "recall": 1.0,
+     "f1": 0.7132867132867133,
+     "prevalence": 102
+    },
+    "violation_only": {
+     "tp": 74,
+     "fp": 0,
+     "fn": 28,
+     "precision": 1.0,
+     "recall": 0.7254901960784313,
+     "f1": 0.8409090909090908,
+     "prevalence": 102
+    },
+    "unverifiable": 110,
+    "time_s": 0.320463900003233
+   },
+   "R03": {
+    "flagged": {
+     "tp": 76,
+     "fp": 33,
+     "fn": 23,
+     "precision": 0.6972477064220184,
+     "recall": 0.7676767676767676,
+     "f1": 0.7307692307692308,
+     "prevalence": 99
+    },
+    "violation_only": {
+     "tp": 70,
+     "fp": 0,
+     "fn": 29,
+     "precision": 1.0,
+     "recall": 0.7070707070707071,
+     "f1": 0.8284023668639052,
+     "prevalence": 99
+    },
+    "unverifiable": 39,
+    "time_s": 0.6193704000033904
+   },
+   "R04": {
+    "flagged": {
+     "tp": 102,
+     "fp": 10,
+     "fn": 0,
+     "precision": 0.9107142857142857,
+     "recall": 1.0,
+     "f1": 0.9532710280373832,
+     "prevalence": 102
+    },
+    "violation_only": {
+     "tp": 102,
+     "fp": 8,
+     "fn": 0,
+     "precision": 0.9272727272727272,
+     "recall": 1.0,
+     "f1": 0.9622641509433962,
+     "prevalence": 102
+    },
+    "unverifiable": 2,
+    "time_s": 1.024523699990823
+   },
+   "R05": {
+    "flagged": {
+     "tp": 94,
+     "fp": 12,
+     "fn": 0,
+     "precision": 0.8867924528301887,
+     "recall": 1.0,
+     "f1": 0.9400000000000001,
+     "prevalence": 94
+    },
+    "violation_only": {
+     "tp": 94,
+     "fp": 0,
+     "fn": 0,
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "prevalence": 94
+    },
+    "unverifiable": 12,
+    "time_s": 1.4487058999948204
+   },
+   "R06": {
+    "flagged": {
+     "tp": 696,
+     "fp": 0,
+     "fn": 0,
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "prevalence": 696
+    },
+    "violation_only": {
+     "tp": 696,
+     "fp": 0,
+     "fn": 0,
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "prevalence": 696
+    },
+    "unverifiable": 0,
+    "time_s": 0.009421700000530109
+   },
+   "R07": {
+    "flagged": {
+     "tp": 83,
+     "fp": 0,
+     "fn": 0,
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "prevalence": 83
+    },
+    "violation_only": {
+     "tp": 83,
+     "fp": 0,
+     "fn": 0,
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "prevalence": 83
+    },
+    "unverifiable": 0,
+    "time_s": 0.015929599991068244
+   },
+   "R08": {
+    "flagged": {
+     "tp": 90,
+     "fp": 0,
+     "fn": 166,
+     "precision": 1.0,
+     "recall": 0.3515625,
+     "f1": 0.5202312138728323,
+     "prevalence": 256
+    },
+    "violation_only": {
+     "tp": 90,
+     "fp": 0,
+     "fn": 166,
+     "precision": 1.0,
+     "recall": 0.3515625,
+     "f1": 0.5202312138728323,
+     "prevalence": 256
+    },
+    "unverifiable": 0,
+    "time_s": 0.0008920000109355897
+   },
+   "R09": {
+    "flagged": {
+     "tp": 140,
+     "fp": 568,
+     "fn": 0,
+     "precision": 0.1977401129943503,
+     "recall": 1.0,
+     "f1": 0.330188679245283,
+     "prevalence": 140
+    },
+    "violation_only": {
+     "tp": 48,
+     "fp": 0,
+     "fn": 92,
+     "precision": 1.0,
+     "recall": 0.34285714285714286,
+     "f1": 0.5106382978723404,
+     "prevalence": 140
+    },
+    "unverifiable": 660,
+    "time_s": 0.008857599998009391
+   },
+   "R10": {
+    "flagged": {
+     "tp": 81,
+     "fp": 2,
+     "fn": 155,
+     "precision": 0.9759036144578314,
+     "recall": 0.3432203389830508,
+     "f1": 0.5078369905956113,
+     "prevalence": 236
+    },
+    "violation_only": {
+     "tp": 81,
+     "fp": 2,
+     "fn": 155,
+     "precision": 0.9759036144578314,
+     "recall": 0.3432203389830508,
+     "f1": 0.5078369905956113,
+     "prevalence": 236
+    },
+    "unverifiable": 0,
+    "time_s": 0.031165600012172945
+   }
+  },
+  "total_time_s": 3.726108699993347,
+  "batches_per_s": 536.7529938145849
+ },
+ "t_total": 739.434199100011
+}
