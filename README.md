@@ -1,4 +1,4 @@
-# Textile sustainability analytics — research prototype
+# Textile sustainability analytics
 
 Research prototype accompanying the manuscript *From passport data to sustainability intelligence: a standards-aligned, provenance-aware analytics framework for textile Digital Product Passports*.
 
