@@ -2,7 +2,7 @@
 
 Research prototype accompanying the manuscript *From passport data to sustainability intelligence: a standards-aligned, provenance-aware analytics framework for textile Digital Product Passports*.
 
-**All data produced by this code are synthetic.** The scenario generator encodes documented assumptions (see `tsa/params.py` and manuscript Appendix A); results characterise method behaviour under those assumptions and are not industrial evidence.
+**All data produced by this code are synthetic.** The scenario generator encodes documented assumptions (see `tsa/params.py`); results characterise method behaviour under those assumptions and are not industrial evidence.
 
 ## Layout
 
